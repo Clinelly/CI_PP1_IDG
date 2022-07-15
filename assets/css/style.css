@@ -7,6 +7,10 @@
     border: none;
 }
 
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 /* Logo, Menu and Headings */
 
 h1, h2 {
@@ -55,9 +59,22 @@ li {
     line-height: 50px;
 }
 
-body {
-    font-family: 'Roboto Condensed', sans-serif;
+/* Hero Image */
+
+#hero-image {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    clear:both;
 }
 
+#heroimage1 {
+    height: 600px;
+    background: url('../images/consumer_board_testing.webp') no-repeat;
+    border: solid white 1px;
+}
 
-    
+#heroimage2 {
+    height: 600px;
+    background: url('../images/water_pipes.jpg') no-repeat;
+    border: solid white 1px;
+}
