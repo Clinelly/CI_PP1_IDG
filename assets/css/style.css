@@ -94,21 +94,42 @@ li {
    text-decoration: underline;
 }
 
+/* Index Reviews */
+
+#reviews {
+        margin: auto;
+        text-align: center;
+}
+
+
+/* Services */
+
+#plumbing-services, #electrical-services {
+    margin: auto;
+    text-align: center;
+    clear: both;
+}
+
+.service-list > li {
+    margin: auto;
+    display: block;
+}
+
 /* Footer */
 
 footer {
-    height: 150px;
+ display: table;
+ text-align: center;
+ margin:auto;
 }
 
-.medialinks {
-    text-align: center;
-}
-
-.medialinks > li {
-    display: inline;
+footer > ul {
+    list-style-type: none;
 }
 
 .medialinks i {
     font-size: 200%;
+    margin: 5px;
+    padding: 5px;
     color: #787878;
 }
