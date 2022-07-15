@@ -69,12 +69,46 @@ li {
 
 #heroimage1 {
     height: 600px;
-    background: url('../images/consumer_board_testing.webp') no-repeat;
+    background: url('../images/water_pipes.jpg') no-repeat;
     border: solid white 1px;
 }
 
 #heroimage2 {
     height: 600px;
-    background: url('../images/water_pipes.jpg') no-repeat;
+    background: url('../images/consumer_board_testing.webp') no-repeat;
     border: solid white 1px;
+}
+
+
+/* Index About Us*/
+
+#aboutus {
+    width: 30%;
+    height: 120px;
+    text-align: center;
+    border: solid 1px black;
+    margin:auto;
+}
+
+#aboutus h2{
+   text-decoration: underline;
+}
+
+/* Footer */
+
+footer {
+    height: 150px;
+}
+
+.medialinks {
+    text-align: center;
+}
+
+.medialinks > li {
+    display: inline;
+}
+
+.medialinks i {
+    font-size: 200%;
+    color: #787878;
 }
