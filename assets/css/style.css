@@ -1,0 +1,63 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto+Slab&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+/* Logo, Menu and Headings */
+
+h1, h2 {
+    font-family: 'Roboto Slab', sans-serif;
+}
+
+h2 {
+    font-size: 125%;
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
+    color: #787878;
+}
+
+#menu {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+li {
+    float: left;
+    margin-right: 25px;
+}
+
+#menu a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.active {
+    border-bottom: solid 1px #787878;
+}
+
+#menu a:hover {
+    border: solid 1px #787878;
+}
+
+#menu, #logo {
+    line-height: 50px;
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+    
