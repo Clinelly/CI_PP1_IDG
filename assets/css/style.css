@@ -110,9 +110,20 @@ li {
     clear: both;
 }
 
-.service-list > li {
+.service-list {
     margin: auto;
-    display: block;
+    text-align: left;
+}
+
+.service-list > li {
+    float: left;
+    clear: left;
+}
+
+/* Contact Form */
+
+#contact-form {
+    clear: both;
 }
 
 /* Footer */
@@ -120,7 +131,8 @@ li {
 footer {
  display: table;
  text-align: center;
- margin:auto;
+ margin: auto;
+ clear: both;
 }
 
 footer > ul {
