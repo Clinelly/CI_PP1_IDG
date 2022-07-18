@@ -166,10 +166,19 @@ li {
 #why-plumb div , #why-elect div {
     width: 50%;
     height: 100px;
-    border: black solid 1px;
-    text-align: center;
+    border: white solid 1px;
 }
 
+
+#p1, #p3, #p5, #e1, #e3, #e5 {
+    float: left;
+    text-align: left;
+}
+
+#p2, #p4, #p6, #e2, #e4, #e6 {
+    float: right;
+    text-align: right;
+}
 
 /* Contact Form */
 
