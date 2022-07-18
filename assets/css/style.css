@@ -110,9 +110,51 @@ li {
     clear: both;
 }
 
-.service-list {
+#trade-services > h2 {
+    font-size: 180%;
+    text-decoration: underline;
+}
+
+#plumbing-electric {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    clear:both;
+}
+
+#plumbing-services {
+    background: url(../images/plumbing_tools.jpg) no-repeat;
+    height: 300px;
+    width: 75%;
     margin: auto;
-    text-align: left;
+
+}
+
+#electrical-services {
+    background: url(../images/electrician_tools.jpg) no-repeat;
+    height: 300px;
+    width: 75%;
+    margin: auto;
+
+}
+
+#plumbing-services, #electrical-services {
+    color: white;
+    font-size: 120%;
+}
+
+#plumbing-services > h3, #electrical-services > h3 {
+    font-size: 150%;
+    text-decoration: underline;
+    background-color: rgba(105, 103, 128, .7);
+    width: 40%;
+    height: 10%;
+}
+
+.service-list {
+    display: block;
+    background-color: rgba(105, 103, 128, .7);
+    width: 40%;
+    height: 50%;
 }
 
 .service-list > li {
@@ -140,7 +182,7 @@ footer > ul {
 }
 
 .medialinks i {
-    font-size: 200%;
+    font-size: 300%;
     margin: 5px;
     padding: 5px;
     color: #787878;
