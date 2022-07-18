@@ -182,9 +182,15 @@ li {
 
 /* Contact Form */
 
-#contact-form {
+#contact-us {
     clear: both;
+    background: url("/assets/images/van.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
 }
+
+
 
 /* Footer */
 
