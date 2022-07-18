@@ -124,15 +124,14 @@ li {
 #plumbing-services {
     background: url(../images/plumbing_tools.jpg) no-repeat;
     height: 300px;
-    width: 75%;
+    width: 100%;
     margin: auto;
-
 }
 
 #electrical-services {
     background: url(../images/electrician_tools.jpg) no-repeat;
     height: 300px;
-    width: 75%;
+    width: 100%;
     margin: auto;
 
 }
@@ -146,21 +145,31 @@ li {
     font-size: 150%;
     text-decoration: underline;
     background-color: rgba(105, 103, 128, .7);
-    width: 40%;
+    width: 35%;
     height: 10%;
 }
 
 .service-list {
     display: block;
     background-color: rgba(105, 103, 128, .7);
-    width: 40%;
+    width: 35%;
     height: 50%;
 }
 
 .service-list > li {
     float: left;
     clear: left;
+    list-style-type: square;
+    list-style-position: inside;
 }
+
+#why-plumb div , #why-elect div {
+    width: 50%;
+    height: 100px;
+    border: black solid 1px;
+    text-align: center;
+}
+
 
 /* Contact Form */
 
