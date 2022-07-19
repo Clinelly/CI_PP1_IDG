@@ -265,6 +265,8 @@ footer > ul {
 
 @media screen and (max-width: 320px) {
 
+/* Logo and Menu */
+
     #logo {
         text-align: center;
         font-size: 250%;
@@ -284,7 +286,44 @@ footer > ul {
         margin-right: 15px;
     }
    
+/* Hero Image */
+
+#hero-image {
+    display: inline;
+}
+
+#heroimage1 {
+    background: url('../images/water_pipes.jpg') no-repeat;
+    background-size: 100% 50%;
+    border: solid white 1px;
+    clear: both;
+}
+
+#heroimage2 {
+    background: url('../images/consumer_board_testing.webp') no-repeat;
+    border: solid white 1px;
+    background-size: 100% 50%;
+    clear: both;
+}
+
+
+/* About us */
+
+#aboutus {
+    width: 95%;
+    height: 30%;
+    text-align: center;
+    border: solid 1px black;
+    margin:auto;
+
     }
 
+    /* Index Reviews */
 
+iframe {
 
+    width: 95%;
+    height: 30%;
+}
+
+}
