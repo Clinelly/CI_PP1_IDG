@@ -182,7 +182,7 @@ li {
 
 /* Contact Form */
 
-#contact-us {
+#contact-section {
     clear: both;
     background: url("/assets/images/van.jpg");
     background-size: cover;
@@ -190,7 +190,33 @@ li {
     height: 900px;
 }
 
+#contact-form {
+    background-color: rgba(105, 103, 128, .7);
+    height: 35%;
+    width: 35%;
+    margin: auto;
+    text-align: center;
+    color: white;
+    clear: both;
+    position: relative;
+    top: 10%;
+    
+}
 
+.job-input {
+    background: transparent;
+    border: 1px solid white;
+    color: white;
+}
+
+.job-input :hover {
+    background-color: orange ;
+}
+
+.quote-button {
+
+
+}
 
 /* Footer */
 
