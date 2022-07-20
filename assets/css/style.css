@@ -83,11 +83,12 @@ li {
 /* Index About Us*/
 
 #aboutus {
-    width: 30%;
-    height: 120px;
+    width: 50%;
+    height: 200px;
     text-align: center;
     border: solid 1px black;
     margin:auto;
+    font-size: 200%;
 }
 
 #aboutus h2{
@@ -411,4 +412,4 @@ iframe {
     
 }
 
-}
+
