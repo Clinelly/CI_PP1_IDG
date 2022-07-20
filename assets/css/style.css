@@ -325,6 +325,7 @@ footer > ul {
     height: 30%;
     text-align: center;
     border: solid 1px black;
+    font-size: 120%;
     margin:auto;
 
     }
@@ -414,17 +415,6 @@ iframe {
 
 /* Footer */
 
-footer {
-    display: table;
-    text-align: center;
-    margin: auto;
-    clear: both;
-   }
-   
-   footer > ul {
-       list-style-type: none;
-   }
-   
    .medialinks i {
        font-size: 250%;
        margin: 5px;
