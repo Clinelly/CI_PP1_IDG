@@ -262,9 +262,9 @@ footer > ul {
 
 /* Media Queries */
 
-/* for smaller screens 320px and smaller */
+/* for smaller screens 480px and smaller */
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
 
 /* Logo and Menu */
 
@@ -412,4 +412,22 @@ iframe {
     
 }
 
+/* Footer */
 
+footer {
+    display: table;
+    text-align: center;
+    margin: auto;
+    clear: both;
+   }
+   
+   footer > ul {
+       list-style-type: none;
+   }
+   
+   .medialinks i {
+       font-size: 250%;
+       margin: 5px;
+       padding: 5px;
+       color: #787878;
+   }
