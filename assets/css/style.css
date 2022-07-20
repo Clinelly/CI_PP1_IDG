@@ -406,11 +406,21 @@ iframe {
 }
 
 #contact-form {
-   
     height: 40%;
     width: 80%;
+    }
 
-    
+/* Gallery */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 1;
+    column-gap: 0;
+}
+
+#photos > img {
+    width: 100%;
 }
 
 /* Footer */
