@@ -191,7 +191,7 @@ li {
 
 #contact-section {
     clear: both;
-    background: url("/assets/images/van.jpg");
+    background: url("/assets/images/van.jpg") no-repeat;
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -238,6 +238,7 @@ footer {
  text-align: center;
  margin: auto;
  clear: both;
+ bottom: 0;
 }
 
 footer > ul {
@@ -393,9 +394,9 @@ iframe {
    }
 }
 
-/* for tablet screens 768px and smaller */
+/* for screen sizes between 481px and 768px */
 
-@media screen and (max-width: 768px) {
+@media (min-width: 481) and (max-width: 768px) {
 
     /* Hero Image */
 
@@ -461,6 +462,28 @@ iframe {
 
     #photos {
         column-count: 2;
+    }
+
+}
+
+/* for  screens sizes between 769px and 1024px */
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+
+    #plumbing-services > h3, #electrical-services > h3 {
+        font-size: 150%;
+        text-decoration: underline;
+        background-color: rgba(105, 103, 128, .7);
+        width: 60%;
+        height: 20%;
+    }
+    
+    .service-list {
+        display: block;
+        background-color: rgba(105, 103, 128, .7);
+        width: 60%;
+        height: 50%;
     }
 
 }
