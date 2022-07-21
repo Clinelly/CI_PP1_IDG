@@ -486,4 +486,39 @@ iframe {
         height: 50%;
     }
 
+    /* Gallery */
+
+    #photos {
+        column-count: 3;
+    }
+
+}
+
+/* for  screens sizes between 1025px and 1200px */
+
+@media (min-width: 1025px) and (max-width: 1200px) {
+
+    
+
+    #plumbing-services > h3, #electrical-services > h3 {
+        font-size: 150%;
+        text-decoration: underline;
+        background-color: rgba(105, 103, 128, .7);
+        width: 60%;
+        height: 20%;
+    }
+    
+    .service-list {
+        display: block;
+        background-color: rgba(105, 103, 128, .7);
+        width: 60%;
+        height: 50%;
+    }
+
+    /* Gallery */
+
+    #photos {
+        column-count: 4;
+    }
+
 }
