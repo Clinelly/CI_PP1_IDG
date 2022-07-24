@@ -139,14 +139,14 @@ li {
     font-size: 150%;
     text-decoration: underline;
     background-color: rgba(105, 103, 128, .7);
-    width: 35%;
+    width: 60%;
     height: 10%;
 }
 
 .service-list {
     display: block;
     background-color: rgba(105, 103, 128, .7);
-    width: 35%;
+    width: 60%;
     height: 50%;
 }
 
@@ -417,8 +417,7 @@ iframe {
     }
     
     #plumbing-electric {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
+        display: inline;
         clear:both;
     }
     
