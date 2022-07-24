@@ -140,7 +140,7 @@ li {
     text-decoration: underline;
     background-color: rgba(105, 103, 128, .7);
     width: 60%;
-    height: 10%;
+    height: 20%;
 }
 
 .service-list {
@@ -177,14 +177,16 @@ li {
 /* Gallery */
 
 #photos {
-    clear: both;
-    line-height: 0;
-    column-count: 4;
-    column-gap: 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    height: auto;
 }
 
 #photos > img {
-    width: 100%;
+    width: 25%;
+    height: auto;
+    flex: 0 1 25%;
 }
 
 /* Contact Form */
@@ -329,7 +331,7 @@ iframe {
 
 #plumbing-electric {
     display: inline;
-    clear:both;
+    clear: both;
 }
 
 #plumbing-services {
@@ -404,7 +406,7 @@ iframe {
     }
 
     /* Services */
-    
+
     #trade-services {
         margin: auto;
         text-align: center;
@@ -418,7 +420,7 @@ iframe {
     
     #plumbing-electric {
         display: inline;
-        clear:both;
+        clear: both;
     }
     
     #plumbing-services {
@@ -436,25 +438,24 @@ iframe {
     
     }
     
-    #plumbing-services, #electrical-services {
-        color: white;
-        font-size: 100%;
-    }
-    
     #plumbing-services > h3, #electrical-services > h3 {
-        font-size: 120%;
-        text-decoration: underline;
-        background-color: rgba(105, 103, 128, .7);
-        width: 70%;
+        width: 100%;
         height: 10%;
     }
     
     .service-list {
         display: block;
         background-color: rgba(105, 103, 128, .7);
-        width: 70%;
+        width: 100%;
         height: 50%;
     }
+    
+    #why-plumb div , #why-elect div {
+        width: 100%;
+        height: 20%;
+        border: white solid 1px;
+    }
+    
   
     /* Gallery */
 
