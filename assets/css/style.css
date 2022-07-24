@@ -166,11 +166,15 @@ li {
 #p1, #p3, #p5, #e1, #e3, #e5 {
     float: left;
     text-align: left;
+    clear: both;
+    margin: auto;
 }
 
 #p2, #p4, #p6, #e2, #e4, #e6 {
     float: right;
     text-align: right;
+    clear: both;
+    margin: auto;
 }
 
 
@@ -361,12 +365,6 @@ iframe {
     height: 50%;
 }
 
-#why-plumb div , #why-elect div {
-    width: 100%;
-    height: 20%;
-    border: white solid 1px;
-}
-
 /* Contact Form */
 
 #contact-section {
@@ -444,12 +442,7 @@ iframe {
         height: 50%;
     }
     
-    #why-plumb div , #why-elect div {
-        width: 100%;
-        height: 20%;
-        border: white solid 1px;
-    }
-    
+
 }
 
 /* for  screens sizes between 769px and 1024px */
