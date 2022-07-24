@@ -382,12 +382,6 @@ iframe {
     width: 80%;
     }
 
-/* Gallery */
-
-#photos {
-    column-count: 1;
-}
-
 /* Footer */
 
    .medialinks i {
@@ -456,13 +450,6 @@ iframe {
         border: white solid 1px;
     }
     
-  
-    /* Gallery */
-
-    #photos {
-        column-count: 2;
-    }
-
 }
 
 /* for  screens sizes between 769px and 1024px */
@@ -483,12 +470,6 @@ iframe {
         background-color: rgba(105, 103, 128, .7);
         width: 60%;
         height: 50%;
-    }
-
-    /* Gallery */
-
-    #photos {
-        column-count: 3;
     }
 
 }
@@ -513,11 +494,4 @@ iframe {
         width: 60%;
         height: 50%;
     }
-
-    /* Gallery */
-
-    #photos {
-        column-count: 4;
-    }
-
 }
