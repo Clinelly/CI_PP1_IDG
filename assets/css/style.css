@@ -214,8 +214,8 @@ li {
 
 #contact-form {
     background-color: rgba(105, 103, 128, .7);
-    height: 35%;
-    width: 70%;
+    height: 40%;
+    width: 60%;
     margin: auto;
     text-align: center;
     color: white;
@@ -241,7 +241,7 @@ li {
     margin-top: 10px;
 }
 
-.quote-button :hover {
+.quote-button:hover {
     background-color: white;
     color: orange;
 }
