@@ -29,6 +29,7 @@ h2 {
     font-size: 250%;
     text-decoration: overline;
     background-color: #0f61db;
+    border: #043c8f solid 1px;
 }
 
 #menu {
@@ -42,6 +43,7 @@ h2 {
     color: #db970f;
     background-color: #0f61db;
     font-weight: bold;
+    border: #043c8f solid 1px;
 }
 
 li {
@@ -55,11 +57,11 @@ li {
 }
 
 .active {
-    border-bottom: solid 1px #db970f;
+    border-bottom: solid 2px #db970f;
 }
 
 #menu a:hover {
-    border: solid 1px #db970f;
+    border: solid 2px #db970f;
 }
 
 #menu, #logo {
@@ -117,6 +119,7 @@ li {
     background-color: #0f61db;
     width: 45%;
     color: #db970f;
+    border: #043c8f solid 1px;
 }
 
 #trade-services > h2 {
