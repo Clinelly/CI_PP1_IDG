@@ -159,17 +159,18 @@ li {
 
 #why-plumb div , #why-elect div {
     width: 50%;
-    height: 100px;
+    height: 10%;
     border: white solid 1px;
 }
+
 
 #p1, #p3, #p5, #e1, #e3, #e5 {
     float: left;
     text-align: left;
     clear: both;
     margin: auto;
-    width: 50%;
-    height: auto;
+    width: 20%;
+    height: 10%;
     background-color: green;
     
 }
