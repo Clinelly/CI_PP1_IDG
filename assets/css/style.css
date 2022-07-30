@@ -114,6 +114,9 @@ li {
     margin: auto;
     text-align: center;
     clear: both;
+    background-color: #0f61db;
+    width: 45%;
+    color: #db970f;
 }
 
 #trade-services > h2 {
@@ -150,15 +153,15 @@ li {
 #plumbing-services > h3, #electrical-services > h3 {
     font-size: 150%;
     text-decoration: underline;
-    background-color: rgba(105, 103, 128, .7);
-    width: 60%;
+    background-color: rgba(15, 97, 219, .7);
+    width: 55%;
     height: 20%;
 }
 
 .service-list {
     display: block;
-    background-color: rgba(105, 103, 128, .7);
-    width: 60%;
+    background-color: rgba(15, 97, 219, .7);
+    width: 55%;
     height: 50%;
 }
 
@@ -170,9 +173,14 @@ li {
 }
 
 #why-plumb div , #why-elect div {
-    width: 50%;
+    width: 75%;
     height: 10%;
-    border: white solid 1px;
+    border: #043c8f solid 1px;
+}
+
+#why-plumb h4, #why-elect h4 {
+    text-decoration: underline;
+    font-weight: bold;
 }
 
 
@@ -183,7 +191,8 @@ li {
     margin: auto;
     width: 20%;
     height: 10%;
-    background-color: green;
+    background-color: #0f61db;
+    color: #db970f;
     
 }
 
@@ -194,7 +203,8 @@ li {
     margin: auto;
     width: 50%;
     height: auto;
-    background-color: yellow;
+    background-color: #0f61db;
+    color: #db970f;
    
 }
 
@@ -225,7 +235,7 @@ li {
 }
 
 #contact-form {
-    background-color: rgba(105, 103, 128, .7);
+    background-color: rgba(15, 97, 219, .7);
     height: 40%;
     width: 50%;
     margin: auto;
@@ -245,7 +255,7 @@ li {
 }
 
 .quote-button {
-    background-color: orange;
+    background-color: #8f5f00;
     color: white;
     font-size: 100%;
     padding: 10px 10px 10px 10px;
@@ -255,7 +265,7 @@ li {
 
 .quote-button:hover {
     background-color: white;
-    color: orange;
+    color: #8f5f00;
 }
 
 /* Footer */
@@ -275,7 +285,7 @@ footer > ul {
     font-size: 300%;
     margin: 5px;
     padding: 5px;
-    color: #787878;
+    color: #8f5f00;
 }
 
 /* Media Queries */
