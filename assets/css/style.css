@@ -9,12 +9,14 @@
 
 body {
     font-family: 'Roboto Condensed', sans-serif;
+    background: #043c8f;
 }
 
 /* Logo, Menu and Headings */
 
 h1, h2 {
     font-family: 'Roboto Slab', sans-serif;
+    color: #db970f;
 }
 
 h2 {
@@ -22,19 +24,23 @@ h2 {
 }
 
 #logo {
+    padding: 1%;
     float: left;
     font-size: 250%;
-    color: #787878;
+    text-decoration: overline;
+    background-color: #0f61db;
 }
 
 #menu {
     float: right;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 1%;
     display: inline;
     font-size: 110%;
     letter-spacing: 2px;
+    color: #db970f;
+    background-color: #0f61db;
 }
 
 li {
@@ -48,11 +54,11 @@ li {
 }
 
 .active {
-    border-bottom: solid 1px #787878;
+    border-bottom: solid 1px #db970f;
 }
 
 #menu a:hover {
-    border: solid 1px #787878;
+    border: solid 1px #db970f;
 }
 
 #menu, #logo {
@@ -215,7 +221,7 @@ li {
 #contact-form {
     background-color: rgba(105, 103, 128, .7);
     height: 40%;
-    width: 60%;
+    width: 50%;
     margin: auto;
     text-align: center;
     color: white;
