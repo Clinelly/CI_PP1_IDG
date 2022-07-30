@@ -41,6 +41,7 @@ h2 {
     letter-spacing: 2px;
     color: #db970f;
     background-color: #0f61db;
+    font-weight: bold;
 }
 
 li {
@@ -75,7 +76,6 @@ li {
 #heroimage1 > img, #heroimage2 > img {
     width: 100%;
     height: auto;
-    border: 1px soild white;
 }
 
 /* Index About Us*/
@@ -84,21 +84,27 @@ li {
     width: 50%;
     height: 40%;
     text-align: center;
-    border: solid 1px black;
-    margin:auto;
+    margin: auto;
     clear: both;
-    font-size: 200%;
+    font-size: 150%;
+    background-color: #0f61db;
+    color: #db970f;
 }
 
 #aboutus h2{
    text-decoration: underline;
+   font-size: 120%;
 }
 
 /* Index Reviews */
 
 #reviews {
+        font-size: 120%;
+        text-transform: uppercase;
         margin: auto;
         text-align: center;
+        background-color: #0f61db;
+        width: 45%;
 }
 
 
