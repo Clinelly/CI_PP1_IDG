@@ -299,7 +299,6 @@ footer > ul {
     #logo {
         text-align: center;
         font-size: 250%;
-        color: #787878;
         margin: auto;
     }
     
@@ -327,7 +326,6 @@ footer > ul {
 #heroimage1 > img, #heroimage2 > img {
     width: 100%;
     height: auto;
-    border: 1px soild white;
 }
 
 /* About us */
@@ -391,7 +389,6 @@ iframe {
 
 .service-list {
     display: block;
-    background-color: rgba(105, 103, 128, .7);
     width: 100%;
     height: 50%;
 }
@@ -464,7 +461,6 @@ iframe {
     
     .service-list {
         display: block;
-        background-color: rgba(105, 103, 128, .7);
         width: 100%;
         height: 50%;
     }
@@ -480,14 +476,12 @@ iframe {
     #plumbing-services > h3, #electrical-services > h3 {
         font-size: 150%;
         text-decoration: underline;
-        background-color: rgba(105, 103, 128, .7);
         width: 60%;
         height: 20%;
     }
     
     .service-list {
         display: block;
-        background-color: rgba(105, 103, 128, .7);
         width: 60%;
         height: 50%;
     }
@@ -497,19 +491,15 @@ iframe {
 
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
 
-    
-
     #plumbing-services > h3, #electrical-services > h3 {
         font-size: 150%;
         text-decoration: underline;
-        background-color: rgba(105, 103, 128, .7);
         width: 60%;
         height: 20%;
     }
     
     .service-list {
         display: block;
-        background-color: rgba(105, 103, 128, .7);
         width: 60%;
         height: 50%;
     }
