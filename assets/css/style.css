@@ -428,53 +428,56 @@ iframe {
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
 
+    /* Logo and Menu */
+
+    #logo {
+        clear: both;
+        margin: auto;
+        text-align: center;
+    }
+
+    #menu {
+        margin: auto;
+        clear: both;
+    }
+    
     /* Hero Image */
 
     #hero-image {
         display: inline;
     }
 
+    /* About Us */
+    
+    #aboutus {
+        width: 60%;
+    }
+
+    /* Reviews */
+
+    #reviews {
+        width: 80%;
+    }
+
     /* Services */
 
     #trade-services {
-        margin: auto;
-        text-align: center;
-        clear: both;
+        width: 70%;
     }
-    
-    #trade-services > h2 {
-        font-size: 180%;
-        text-decoration: underline;
-    }
-    
+
     #plumbing-electric {
         display: inline;
         clear: both;
     }
-    
-    #plumbing-services {
-        background: url(../images/plumbing_tools.jpg) no-repeat;
-        height: 300px;
-        width: 100%;
-        margin: auto;
-    }
-    
-    #electrical-services {
-        background: url(../images/electrician_tools.jpg) no-repeat;
-        height: 300px;
-        width: 100%;
-        margin: auto;
-    
-    }
-    
+
     #plumbing-services > h3, #electrical-services > h3 {
-        width: 100%;
+        width: 50%;
         height: 10%;
     }
     
     .service-list {
         display: block;
-        width: 100%;
+        width: 50%;
         height: 50%;
     }
 }
