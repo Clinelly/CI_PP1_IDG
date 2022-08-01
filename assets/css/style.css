@@ -480,9 +480,40 @@ iframe {
         width: 50%;
         height: 50%;
     }
+
+
+#why-plumb div , #why-elect div {
+    display: inline;
+    clear: both;
+    margin: auto;
+    width: 100%;
+    text-align: center;
 }
 
+#p1, #p3, #p5, #e1, #e3, #e5 {
+    display: inline;
+    clear: both;
+    margin: auto;
+    width: 100%;
+}
+
+#p2, #p4, #p6, #e2, #e4, #e6 {
+    display: inline;
+    clear: both;
+    margin: auto;
+    width: 100%;
+}
+
+    /* Gallery */
+
+#photos > img {
+    width: 50%;
+}
+
+
     /* Contact Form */
+
+}
 
 /* for  screens sizes between 769px and 1024px */
 
