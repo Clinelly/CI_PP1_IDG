@@ -338,15 +338,15 @@ footer > ul {
 #aboutus {
     width: 95%;
     height: 30%;
-    text-align: center;
-    border: solid 1px black;
     font-size: 120%;
-    margin:auto;
-    clear: both;
 
     }
 
 /* Index Reviews */
+
+#reviews {
+    width: auto;
+}
 
 iframe {
 
