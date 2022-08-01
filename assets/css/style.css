@@ -176,7 +176,7 @@ li {
 }
 
 #why-plumb div , #why-elect div {
-    width: 75%;
+    width: 40%;
     height: 10%;
     border: #043c8f solid 1px;
 }
@@ -300,6 +300,7 @@ footer > ul {
 /* Logo and Menu */
 
     #logo {
+        padding-top: 2%;
         text-align: center;
         font-size: 250%;
         margin: auto;
@@ -307,6 +308,7 @@ footer > ul {
     
     #menu {
         list-style-type: none;
+        width: 100%;
         margin: 0;
         padding: 0;
         font-size: 100%;
@@ -315,8 +317,8 @@ footer > ul {
     }
     
     li {
-        
-        margin-right: 20px;
+        margin-right: 10px;
+        margin-left: 10px;
     }
    
 /* Hero Image */
