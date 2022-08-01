@@ -396,6 +396,16 @@ iframe {
     width: 100%;
 }
 
+/* Gallery */
+
+#photos {
+    display: inline;
+}
+
+#photos > img {
+    width: 100%;
+}
+
 /* Contact Form */
 
 #contact-section {
