@@ -186,30 +186,33 @@ li {
     font-weight: bold;
 }
 
-#p1, #p3, #p5, #e1, #e3, #e5 {
-    float: left;
+
+#service-description {
+    margin: auto;
+    clear: both;
+
+}
+
+#plumb-list {
     text-align: left;
-    clear: both;
-    margin: auto;
-    width: 20%;
-    height: 10%;
-    background-color: #0f61db;
-    color: #db970f;
-    
-}
-
-#p2, #p4, #p6, #e2, #e4, #e6 {
-    float: right;
-    text-align: right;
-    clear: both;
-    margin: auto;
+    float: left;
     width: 50%;
-    height: auto;
     background-color: #0f61db;
     color: #db970f;
-   
+    padding: 20px;
+    margin: auto;
+
 }
 
+#elec-list {
+    text-align: right;
+    float: right;
+    width: 50%;
+    background-color: #0f61db;
+    color: #db970f;
+    padding: 20px;
+    margin: auto;
+}
 
 /* Gallery */
 
