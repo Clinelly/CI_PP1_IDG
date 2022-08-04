@@ -107,3 +107,6 @@ CSS Validation
  
 Lighthouse Scores
 
+### Bugs
+
+## Deployment
