@@ -119,3 +119,17 @@ From the source section drop-down menu, select the Master Branch.
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - https://clinelly.github.io/CI_PP1_IDG/
+
+## Credits
+
+### Content
+
+The reviews were taken from Facebook and embedded using Facebook's embed feature.
+Icons for the media links were taken from FontAwesome.
+Footer code was modified from CodeInsitute's 'Love Running' project.
+The code for the flexbox gallery was taken from stackoverflow.
+
+
+### Media
+
+All images were taken from www.pixabay.com
