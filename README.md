@@ -30,3 +30,37 @@ A frequent user is someone who utilises IDG's services on a regular basis. A con
 * To check to see if there are any new reviews.
 * To be informed if the service provider is continuing to trade.
 
+## Features
+
+### Existing Features
+
+**Logo**
+
+The Logo in the top left of the page is an important advertisment of the company to the users. It is repeated across all the pages in a uniform location.
+
+**Navigation Bar**
+
+Located in the top left of the Home, Services, Gallery and Contact pages, the bar provides users with the ability to efficently navigate the site to browse for relevent content. It also allows users to navigate backwards through the site without having to use the browser-based back button or keyboard shortcuts.
+
+**Main Image**
+
+The main images provide users with a visual representation of the type of services that IDG offers. This can reassure users that they are on the relevant website if they require a utilities service.
+
+**About Us**
+
+A small paragraph that describes IDG. It provides users with information about IDG, the services it provides and the location it operates in.
+
+**Reviews**
+
+A number of positive reviews taken from IDG's Facebook page, providing users with real feedback from other users who have used IDG's services.
+
+**Media Links**
+
+Featured at the bottom of the page, throughout the website, a series of images provide users to iwth links to external websites for their own research.
+ * Facebook: A link to IDG's Facebook page, featuring more reviews, pictures and updates.
+ * Email: Opens up a 'mail:to' link, direct to IDG's email account.
+ * Phone: Opens up a 'tel:' link to IDG's phone number - ideal for emergency users.
+ * Checkatrade: Opens up a link to IDG's Check'a'trade webpage.
+
+ **Services**
+ 
