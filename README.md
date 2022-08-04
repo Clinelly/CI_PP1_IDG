@@ -62,5 +62,48 @@ Featured at the bottom of the page, throughout the website, a series of images p
  * Phone: Opens up a 'tel:' link to IDG's phone number - ideal for emergency users.
  * Checkatrade: Opens up a link to IDG's Check'a'trade webpage.
 
- **Services**
+**Services Page**
+
+ This page provides more in-depth descriptions of the type of services that IDG offer and provide. This is where users would go and match IGD's services to their needs and move on to eventually hiring them.
+
+**Our Services**
+
+ A small paragraph outlining IDG's services.
+
+**Electrical and Plumbing Services**
+
+ An overview list of specific services available to users. Featured over relevant imagery to catch the user's attention.
+
+**Electrical and Plumbing Services Pt.2**
+
+ A detailed breakdown of each services provided and a descriptive paragraph to help sell the service to the user, or help them match their specific requirement.
+ Provided in a display element to help reduce information overload and provide an element of interaction to the user.
+
+**Gallery**
+
+ A gallery of photographs from jobs IDG has performed in the past. It is designed to show users the quality of work they can expect and to provide ideas and inspirations.
+
+**Contact Page**
+
+ A form system where users can get in touch with IDG. Users will be able to describe their requirements, ask questions, arrange meetings or ask for job quotes.
+ Users will be asked to provide their names and contact information.
+
+### Features to be Implemented
+
+## Testing
+
+### Responsive Testing 
+
+Responsive testing was accomplished through the use of Google Chrome Dev Tools and active resizing of the viewport.
+
+Amiresponsive? :
+
+### Validation
  
+HTML Validation:
+CSS Validation
+
+### Accessibility
+ 
+Lighthouse Scores
+
