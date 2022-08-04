@@ -190,6 +190,7 @@ li {
 #service-description {
     margin: auto;
     clear: both;
+    width: 100%;
 
 }
 
@@ -199,7 +200,6 @@ li {
     width: 50%;
     background-color: #0f61db;
     color: #db970f;
-    padding: 20px;
     margin: auto;
 
 }
@@ -210,7 +210,6 @@ li {
     width: 50%;
     background-color: #0f61db;
     color: #db970f;
-    padding: 20px;
     margin: auto;
 }
 
@@ -385,14 +384,14 @@ iframe {
     text-align: center;
 }
 
-#p1, #p3, #p5, #e1, #e3, #e5 {
+#plumb-list  {
     display: inline;
     clear: both;
     margin: auto;
     width: 100%;
 }
 
-#p2, #p4, #p6, #e2, #e4, #e6 {
+#elec-list {
     display: inline;
     clear: both;
     margin: auto;
@@ -542,7 +541,7 @@ iframe {
     }
 
     #photos > img {
-        width: 33%;
+        width: 50%;
     }
 }
 
