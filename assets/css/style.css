@@ -9,14 +9,14 @@
 
 body {
     font-family: 'Roboto Condensed', sans-serif;
-    background: #043c8f;
+    background: #CBF1FB;
 }
 
 /* Logo, Menu and Headings */
 
 h1, h2 {
     font-family: 'Roboto Slab', sans-serif;
-    color: #db970f;
+    color: #3E6E7A;
 }
 
 h2 {
@@ -33,8 +33,8 @@ h2 {
     float: left;
     font-size: 250%;
     text-decoration: overline;
-    background-color: #0f61db;
-    border: white solid 5px;
+    background-color: #65B3C7;
+    border: white double 7px;
 }
 
 #menu {
@@ -45,8 +45,8 @@ h2 {
     display: inline;
     font-size: 110%;
     letter-spacing: 2px;
-    color: #db970f;
-    background-color: #0f61db;
+    color: #3E6E7A;
+    background-color: #65B3C7;
     font-weight: bold;
     border: #043c8f solid 1px;
 }
@@ -62,11 +62,11 @@ li {
 }
 
 .active {
-    border-bottom: solid 2px #db970f;
+    border-bottom: solid 2px #3E6E7A;
 }
 
 #menu a:hover {
-    border: solid 2px #db970f;
+    border: solid 2px #3E6E7A;
 }
 
 #menu {
@@ -122,8 +122,8 @@ li {
     margin-top: 20px;
     clear: both;
     font-size: 150%;
-    background-color: #0f61db;
-    color: #db970f;
+    background-color: #65B3C7;
+    color: #3E6E7A;
 }
 
 #aboutus h2{
@@ -138,8 +138,8 @@ li {
         text-decoration: underline;
         margin: auto;
         text-align: center;
-        color: #db970f;
-        background-color: #0f61db;
+        color: #3E6E7A;
+        background-color: #65B3C7;
         width: 45%;
         padding: 10px;
 }
@@ -151,9 +151,9 @@ li {
     margin: auto;
     text-align: center;
     clear: both;
-    background-color: #0f61db;
+    background-color: #65B3C7;
     width: 45%;
-    color: #db970f;
+    color: #3E6E7A;
     border: #043c8f solid 1px;
 }
 
@@ -184,21 +184,21 @@ li {
 }
 
 #plumbing-services, #electrical-services {
-    color: white;
+    color: #111f23;
     font-size: 120%;
 }
 
 #plumbing-services > h3, #electrical-services > h3 {
     font-size: 150%;
     text-decoration: underline;
-    background-color: rgba(15, 97, 219, .7);
+    background-color: rgba(101, 179, 199, .7);
     width: 55%;
     height: 20%;
 }
 
 .service-list {
     display: block;
-    background-color: rgba(15, 97, 219, .7);
+    background-color: rgba(101, 179, 199, .7);
     width: 55%;
     height: 50%;
 }
@@ -233,8 +233,8 @@ li {
     text-align: left;
     float: left;
     width: 50%;
-    background-color: #0f61db;
-    color: #db970f;
+    background-color: #65B3C7;
+    color: #3E6E7A;
     margin: auto;
 
 }
@@ -243,8 +243,8 @@ li {
     text-align: right;
     float: right;
     width: 50%;
-    background-color: #0f61db;
-    color: #db970f;
+    background-color: #65B3C7;
+    color: #3E6E7A;
     margin: auto;
 }
 
@@ -274,12 +274,12 @@ li {
 }
 
 #contact-form {
-    background-color: rgba(15, 97, 219, .7);
+    background-color: rgba(101, 179, 199, .7);
     height: 40%;
     width: 50%;
     margin: auto;
     text-align: center;
-    color: white;
+    color: #111f23;
     clear: both;
     position: relative;
     top: 10%;
@@ -294,8 +294,8 @@ li {
 }
 
 .quote-button {
-    background-color: #8f5f00;
-    color: white;
+    background-color: #3E6E7A;
+    color: #111f23;
     font-size: 100%;
     padding: 10px 10px 10px 10px;
     border: 1px solid white;
@@ -303,8 +303,8 @@ li {
 }
 
 .quote-button:hover {
-    background-color: white;
-    color: #8f5f00;
+    background-color: #7FE1FA;
+    color: #111f23;
 }
 
 /* Footer */
@@ -324,7 +324,7 @@ footer > ul {
     font-size: 300%;
     margin: 5px;
     padding: 5px;
-    color: #8f5f00;
+    color: #3E6E7A;
 }
 
 /* Media Queries */
