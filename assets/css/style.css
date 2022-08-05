@@ -34,7 +34,7 @@ h2 {
     font-size: 250%;
     text-decoration: overline;
     background-color: #65B3C7;
-    border: white double 7px;
+    border: #1F7085 double 7px;
 }
 
 #menu {
@@ -48,7 +48,7 @@ h2 {
     color: #3E6E7A;
     background-color: #65B3C7;
     font-weight: bold;
-    border: #043c8f solid 1px;
+    border: #1F7085 solid 3px;
 }
 
 li {
@@ -124,6 +124,7 @@ li {
     font-size: 150%;
     background-color: #65B3C7;
     color: #3E6E7A;
+    border: #1F7085 solid 4px;
 }
 
 #aboutus h2{
@@ -142,6 +143,7 @@ li {
         background-color: #65B3C7;
         width: 45%;
         padding: 10px;
+        border: #1F7085 solid 3px;
 }
 
 
@@ -154,7 +156,7 @@ li {
     background-color: #65B3C7;
     width: 45%;
     color: #3E6E7A;
-    border: #043c8f solid 1px;
+    border: #1F7085 solid 3px;
 }
 
 #trade-services > h2 {
@@ -194,6 +196,8 @@ li {
     background-color: rgba(101, 179, 199, .7);
     width: 55%;
     height: 20%;
+    border: #1F7085 solid 3px;
+    border-bottom: none;
 }
 
 .service-list {
@@ -201,6 +205,8 @@ li {
     background-color: rgba(101, 179, 199, .7);
     width: 55%;
     height: 50%;
+    border: #1F7085 solid 3px;
+    border-top: none;
 }
 
 .service-list > li {
@@ -213,14 +219,12 @@ li {
 #why-plumb div , #why-elect div {
     width: 40%;
     height: 10%;
-    border: #043c8f solid 1px;
 }
 
 #why-plumb h4, #why-elect h4 {
     text-decoration: underline;
     font-weight: bold;
 }
-
 
 #service-description {
     margin: auto;
@@ -236,7 +240,6 @@ li {
     background-color: #65B3C7;
     color: #3E6E7A;
     margin: auto;
-
 }
 
 #elec-list {
@@ -246,6 +249,10 @@ li {
     background-color: #65B3C7;
     color: #3E6E7A;
     margin: auto;
+}
+
+#plumb-list > details, #elec-list > details {
+    border: #1F7085 solid 1px;
 }
 
 /* Gallery */
@@ -284,6 +291,7 @@ li {
     position: relative;
     top: 10%;
     padding-top: 1%;
+    border: #1F7085 solid 3px;
 }
 
 .job-input {
