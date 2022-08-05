@@ -24,19 +24,24 @@ h2 {
 }
 
 #logo {
-    padding: 1%;
+    border-radius: 50%;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    line-height: 100px;
     float: left;
     font-size: 250%;
     text-decoration: overline;
     background-color: #0f61db;
-    border: #043c8f solid 1px;
+    border: white solid 5px;
 }
 
 #menu {
     float: right;
     list-style-type: none;
-    margin: 0;
-    padding: 1%;
+    margin-top: 25px;
+    padding-left: 15px;
     display: inline;
     font-size: 110%;
     letter-spacing: 2px;
@@ -64,21 +69,48 @@ li {
     border: solid 2px #db970f;
 }
 
-#menu, #logo {
+#menu {
     line-height: 50px;
 }
 
 /* Hero Image */
 
-#hero-image {
+#hero-section {
+    background: url(../images/consumer_board_testing.webp) no-repeat center center;
+    height: 400px;
+    width: 100%;
     clear: both;
-    display: flex;
 }
 
-#heroimage1 > img, #heroimage2 > img {
+#hero-image {
+    background: url(../images/water_pipes.jpg) no-repeat center center;
+    height: 400px;
     width: 100%;
-    height: auto;
+    clear: both;
 }
+
+#hero-image {
+    animation-name: fade;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 6s;
+    animation-direction: alternate;
+  }
+  
+  @keyframes fade {
+    0% {
+      opacity: 1;
+    }
+    25% {
+      opacity: 1;
+    }
+    75% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
 
 /* Index About Us*/
 
@@ -87,6 +119,7 @@ li {
     height: 40%;
     text-align: center;
     margin: auto;
+    margin-top: 20px;
     clear: both;
     font-size: 150%;
     background-color: #0f61db;
@@ -102,11 +135,13 @@ li {
 
 #reviews {
         font-size: 120%;
-        text-transform: uppercase;
+        text-decoration: underline;
         margin: auto;
         text-align: center;
+        color: #db970f;
         background-color: #0f61db;
         width: 45%;
+        padding: 10px;
 }
 
 

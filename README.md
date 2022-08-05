@@ -126,7 +126,8 @@ The live link can be found here - https://clinelly.github.io/CI_PP1_IDG/
 
 The reviews were taken from Facebook and embedded using Facebook's embed feature.
 Icons for the media links were taken from FontAwesome.
-Footer code was modified from CodeInsitute's 'Love Running' project.
+Footer and Hero Image code were modified from CodeInsitute's 'Love Running' project.
+Hero Image animation was modified from : https://www.taniarascia.com/crossfade-between-two-images-with-css-animations/
 The code for the flexbox gallery was taken from stackoverflow.
 
 
