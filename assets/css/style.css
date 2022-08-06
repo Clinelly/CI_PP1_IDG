@@ -14,6 +14,12 @@ body {
 
 /* Logo, Menu and Headings */
 
+header {
+    background-color: #65B3C7;
+    width: 100%;
+    height: 100px;
+}
+
 h1, h2 {
     font-family: 'Roboto Slab', sans-serif;
     color: #3E6E7A;
@@ -323,6 +329,9 @@ footer {
  text-align: center;
  margin: auto;
  clear: both;
+ height: 100px;
+ width: 100%;
+ background-color: #65B3C7;
 }
 
 footer > ul {
