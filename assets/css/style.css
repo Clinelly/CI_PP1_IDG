@@ -327,9 +327,8 @@ li {
 footer {
  display: table;
  text-align: center;
- margin: auto;
+ margin-top: 10px;
  clear: both;
- height: 100px;
  width: 100%;
  background-color: #65B3C7;
 }
@@ -346,6 +345,21 @@ footer > ul {
 }
 
 /* 404 Error Page */
+
+#error-image {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    clear: both;
+}
+
+#error-image > img {
+    width: 60%;
+    height: auto;
+    margin: auto;
+    clear: both;
+    display: block;
+}
 
 /* Media Queries */
 
@@ -389,7 +403,7 @@ footer > ul {
     height: auto;
 }
 
-iframe {
+.review-fb {
     width: 95%;
     height: 30;
 }
