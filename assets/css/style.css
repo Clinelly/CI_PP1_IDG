@@ -285,6 +285,7 @@ li {
     background-size: cover;
     background-position: center;
     height: 900px;
+    position: relative;
 }
 
 #contact-form {
@@ -320,6 +321,56 @@ li {
 .quote-button:hover {
     background-color: #7FE1FA;
     color: #111f23;
+}
+
+/* Direct Contact and Google Map */
+
+#contact-info {
+    background-color: #65B3C7;
+    width: 45%;
+    height: 40%;
+    margin: auto;
+    clear: both;
+    text-align: center;
+}
+
+.contact-list {
+    list-style-type: none;
+    width: 100%;
+    height: auto;
+    background-color: #65B3C7;
+}
+
+.contact-list > ul {
+    width: 100%;
+    background-color: #65B3C7;
+}
+
+.contact-list > li {
+    float: left;
+    clear: left;
+    background-color: #65B3C7;
+    width: 100%;
+    height: auto;
+}
+
+#find-us {
+    background-color: #65B3C7;
+    width: 45%;
+    height: auto;
+    margin: auto;
+    clear: both;
+    display: inline-block;
+}
+
+#find-us, #contact-info {
+    display: inline-block;
+}
+
+#map {
+    width: 50%;
+    height: auto;
+    margin: auto;
 }
 
 /* Footer */
