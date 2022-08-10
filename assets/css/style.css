@@ -811,6 +811,29 @@ width: auto;
     #photos > img {
         width: 50%;
     }
+
+/* Direct Contact and Google Map */
+
+#contact-info {
+    width: 80%;
+}
+
+#find-us {
+    width: 80%;
+    height: 40%;
+}
+
+#map {
+    width: 70%;
+    height: 70%;
+}
+
+/* Footer */
+
+.medialinks {
+    margin: 0 33%;
+}
+
 }
 
 /* for  screens sizes between 1025px and 1200px */
@@ -829,4 +852,25 @@ width: auto;
         width: 60%;
         height: 50%;
     }
+/* Direct Contact and Google Map */
+
+#contact-info {
+    width: 80%;
+}
+
+#find-us {
+    width: 80%;
+    height: 40%;
+}
+
+#map {
+    width: 70%;
+    height: 70%;
+}
+
+/* Footer */
+
+.medialinks {
+    margin: 0 33%;
+}
 }
