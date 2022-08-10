@@ -347,12 +347,14 @@ li {
 .contact-list > ul {
     width: 100%;
     background-color: #65B3C7;
+    margin: auto;
 }
 
 .contact-list > li {
     float: left;
     clear: left;
     font-size: large;
+    margin: auto;
     background-color: #65B3C7;
     width: 100%;
     height: auto;
@@ -417,9 +419,15 @@ footer > ul {
 
 /* Media Queries */
 
-/* for smaller screens 480px and smaller */
+/* for very small screens 320px and smaller. */
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 320px) {
+
+}
+
+/* for smaller screens between 321px and 480px */
+
+@media screen and (min-width: 321px) and (max-width: 480px) {
 
 /* Logo and Menu */
 
@@ -495,7 +503,7 @@ footer > ul {
 #plumb-list  {
     display: inline;
     clear: both;
-    margin: auto;
+    margin: 10px auto;
     width: 100%;
 }
 
@@ -503,7 +511,7 @@ footer > ul {
     display: inline;
     clear: both;
     margin: auto;
-    width: 100%;
+    width: 10px 100%;
 }
 
 /* Gallery */
