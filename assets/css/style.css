@@ -354,7 +354,9 @@ li {
     float: left;
     clear: left;
     font-size: large;
+    list-style-position: inside;
     margin: auto;
+    padding: 0;
     background-color: #65B3C7;
     width: 100%;
     height: auto;
@@ -422,7 +424,129 @@ footer > ul {
 /* for very small screens 320px and smaller. */
 
 @media screen and (max-width: 320px) {
+/* Logo and Menu */
 
+#logo {
+    margin-left: 25%;
+}
+
+#menu {
+    margin: auto;
+    width: 100%;
+    font-size: 80%;
+}
+
+li {
+    padding-left: 3%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/* Hero Image */
+
+/* About us */
+
+#aboutus {
+width: 95%;
+height: 30%;
+font-size: 120%;
+
+}
+
+/* Index Reviews */
+
+#reviews {
+width: 90%;
+height: auto;
+}
+
+.review-fb {
+width: 95%;
+height: 30;
+}
+
+/* Services */
+
+#trade-services {
+width: auto;
+}
+
+#plumbing-electric {
+display: inline;
+clear: both;
+}
+
+#plumbing-services > h3, #electrical-services > h3 {
+width: 100%;
+height: 10%;
+}
+
+.service-list {
+display: block;
+width: 100%;
+height: 50%;
+}
+
+#why-plumb div , #why-elect div {
+display: inline;
+clear: both;
+margin: auto;
+width: 100%;
+text-align: center;
+}
+
+#plumb-list  {
+display: inline;
+clear: both;
+margin: 10px auto;
+width: 100%;
+}
+
+#elec-list {
+display: inline;
+clear: both;
+margin: 10px auto;
+width: 10px 100%;
+}
+
+/* Gallery */
+
+#photos > img {
+width: 100%;
+}
+
+/* Contact Form */
+
+#contact-section {
+height: auto;
+width: auto;
+}
+
+#contact-form {
+width: auto;
+}
+
+/* Direct Contact and Google Map */
+
+#contact-info {
+    width: 80%;
+}
+
+#find-us {
+    width: 80%;
+    height: 40%;
+}
+
+#map {
+    width: 70%;
+    height: 70%;
+}
+
+/* Footer */
+
+.medialinks i {
+   font-size: 250%;
+}
 }
 
 /* for smaller screens between 321px and 480px */
