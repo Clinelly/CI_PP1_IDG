@@ -424,6 +424,7 @@ footer > ul {
 /* for very small screens 320px and smaller. */
 
 @media screen and (max-width: 320px) {
+
 /* Logo and Menu */
 
 #logo {
@@ -441,8 +442,6 @@ li {
     margin-right: 10px;
     margin-left: 10px;
 }
-
-/* Hero Image */
 
 /* About us */
 
@@ -556,7 +555,7 @@ width: auto;
 /* Logo and Menu */
 
     #logo {
-        margin-left: 25%;
+        margin: 0 34%;
     }
     
     #menu {
@@ -567,12 +566,9 @@ width: auto;
     
     li {
         padding-left: 3%;
-        margin-right: 10px;
-        margin-left: 10px;
+        margin: 0 5%;
     }
    
-/* Hero Image */
-
 /* About us */
 
 #aboutus {
@@ -655,6 +651,23 @@ width: auto;
     width: auto;
 }
 
+/* Direct Contact and Google Map */
+
+#contact-info {
+    width: 80%;
+}
+
+#find-us {
+    width: 80%;
+    height: 40%;
+}
+
+#map {
+    width: 70%;
+    height: 70%;
+}
+
+
 /* Footer */
 
    .medialinks i {
@@ -678,12 +691,7 @@ width: auto;
         margin: auto;
         clear: both;
     }
-    
-    /* Hero Image */
 
-    #hero-image {
-        display: inline;
-    }
 
     /* About Us */
     
