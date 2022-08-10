@@ -419,6 +419,25 @@ footer > ul {
     display: block;
 }
 
+#error-message {
+    width: 60%;
+    height: auto;
+    margin: 10px auto;
+    text-align: center;
+    font-size: x-large;
+    background-color: #65B3C7;
+    border: #1F7085 solid 2px;
+}
+
+#error-message a {
+    text-decoration: none;
+    color: #244047;
+}
+
+#error-message a:hover {
+    text-decoration: underline;
+}
+
 /* Media Queries */
 
 /* for very small screens 320px and smaller. */
