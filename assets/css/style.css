@@ -22,7 +22,7 @@ header {
 
 h1, h2 {
     font-family: 'Roboto Slab', sans-serif;
-    color: #3E6E7A;
+    color: #244047;
 }
 
 h2 {
@@ -130,7 +130,7 @@ li {
     clear: both;
     font-size: 150%;
     background-color: #65B3C7;
-    color: #3E6E7A;
+    color: #244047;
     border: #1F7085 solid 4px;
 }
 
@@ -146,7 +146,7 @@ li {
         text-decoration: underline;
         margin: auto;
         text-align: center;
-        color: #3E6E7A;
+        color: #244047;
         background-color: #65B3C7;
         width: 45%;
         padding: 10px;
@@ -162,7 +162,7 @@ li {
     clear: both;
     background-color: #65B3C7;
     width: 45%;
-    color: #3E6E7A;
+    color: #244047;
     border: #1F7085 solid 3px;
 }
 
@@ -193,7 +193,7 @@ li {
 }
 
 #plumbing-services, #electrical-services {
-    color: #111f23;
+    color: #244047;
     font-size: 120%;
 }
 
@@ -245,8 +245,8 @@ li {
     float: left;
     width: 50%;
     background-color: #65B3C7;
-    color: #3E6E7A;
-    margin: auto;
+    color: #244047;
+    margin: 10px auto;
 }
 
 #elec-list {
@@ -254,8 +254,8 @@ li {
     float: right;
     width: 50%;
     background-color: #65B3C7;
-    color: #3E6E7A;
-    margin: auto;
+    color: #244047;
+    margin: 10px auto;
 }
 
 #plumb-list > details, #elec-list > details {
@@ -294,7 +294,7 @@ li {
     width: 50%;
     margin: auto;
     text-align: center;
-    color: #111f23;
+    color: #244047;
     clear: both;
     position: relative;
     top: 10%;
@@ -311,7 +311,7 @@ li {
 
 .quote-button {
     background-color: #3E6E7A;
-    color: #111f23;
+    color: #244047;
     font-size: 100%;
     padding: 10px 10px 10px 10px;
     border: 1px solid white;
@@ -320,7 +320,7 @@ li {
 
 .quote-button:hover {
     background-color: #7FE1FA;
-    color: #111f23;
+    color: #244047;
 }
 
 /* Direct Contact and Google Map */
@@ -332,6 +332,7 @@ li {
     margin: 10px auto;
     clear: both;
     text-align: center;
+    color: #244047;
 }
 
 .contact-list {
@@ -340,6 +341,7 @@ li {
     height: auto;
     background-color: #65B3C7;
     margin-bottom: 10px;
+    color: #244047;
 }
 
 .contact-list > ul {
@@ -354,6 +356,7 @@ li {
     background-color: #65B3C7;
     width: 100%;
     height: auto;
+    color: #244047;
 }
 
 #find-us {
@@ -364,6 +367,7 @@ li {
     margin: auto;
     padding-top: 20px;
     clear: both;
+    color: #244047
 }
 
 #map {
@@ -389,8 +393,8 @@ footer > ul {
 
 .medialinks i {
     font-size: 300%;
-    margin: 5px;
-    padding: 5px;
+    margin: 3px;
+    padding: 3px;
     color: #3E6E7A;
 }
 
