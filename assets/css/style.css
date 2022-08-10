@@ -688,10 +688,8 @@ width: auto;
     }
 
     #menu {
-        margin: auto;
-        clear: both;
+        margin: 25px auto;
     }
-
 
     /* About Us */
     
@@ -760,6 +758,28 @@ width: auto;
 
 #contact-section {
     width: auto;
+}
+
+/* Direct Contact and Google Map */
+
+#contact-info {
+    width: 80%;
+}
+
+#find-us {
+    width: 80%;
+    height: 40%;
+}
+
+#map {
+    width: 70%;
+    height: 70%;
+}
+
+/* Footer */
+
+.medialinks {
+    margin: 0 29%;
 }
 
 }
