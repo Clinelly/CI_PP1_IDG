@@ -454,6 +454,7 @@ footer > ul {
     margin: auto;
     width: 100%;
     font-size: 80%;
+    letter-spacing: 1px;
 }
 
 li {
@@ -562,10 +563,6 @@ width: auto;
 
 /* Footer */
 
-.medialinks i {
-   font-size: 250%;
-}
-
 /* 404 Error Page */
 
 #error-image > img {
@@ -593,10 +590,10 @@ width: auto;
         margin: auto;
         width: 100%;
         font-size: 80%;
+        letter-spacing: 1px;
     }
     
     li {
-        padding-left: 3%;
         margin: 0 5%;
     }
    
@@ -701,9 +698,6 @@ width: auto;
 
 /* Footer */
 
-   .medialinks i {
-       font-size: 250%;
-   }
 
 /* 404 Error Page */
 
@@ -731,7 +725,13 @@ width: auto;
     }
 
     #menu {
-        margin: 25px auto;
+        width: 100%;
+        margin: auto;
+    }
+
+       
+    li {
+        margin: 0 5%;
     }
 
     /* About Us */
@@ -743,6 +743,10 @@ width: auto;
     /* Reviews */
 
     #reviews {
+        width: 80%;
+    }
+
+    .review-fb {
         width: 80%;
     }
 
@@ -803,6 +807,10 @@ width: auto;
     width: auto;
 }
 
+#contact-form {
+    width: 60%;
+}
+
 /* Direct Contact and Google Map */
 
 #contact-info {
@@ -821,9 +829,6 @@ width: auto;
 
 /* Footer */
 
-.medialinks {
-    margin: 0 29%;
-}
 
 /* 404 Error Page */
 
@@ -846,6 +851,10 @@ width: auto;
 
 #reviews{
     width: 55%;
+}
+
+.review-fb {
+    width: 80%;
 }
 
 /* Services */
@@ -884,9 +893,6 @@ width: auto;
 
 /* Footer */
 
-.medialinks {
-    margin: 0 33%;
-}
 
 /* 404 Error Page */
 
@@ -904,6 +910,11 @@ width: auto;
 /* for  screens sizes between 1025px and 1200px */
 
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
+
+
+    .review-fb {
+        width: 80%;
+    }
 
     #plumbing-services > h3, #electrical-services > h3 {
         font-size: 150%;
@@ -935,9 +946,6 @@ width: auto;
 
 /* Footer */
 
-.medialinks {
-    margin: 0 33%;
-}
 
 /* 404 Error Page */
 
