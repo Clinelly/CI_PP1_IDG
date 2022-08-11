@@ -457,7 +457,7 @@ footer > ul {
     letter-spacing: 1px;
 }
 
-li {
+#menu > li {
     padding-left: 3%;
     margin-right: 10px;
     margin-left: 10px;
@@ -563,6 +563,10 @@ width: auto;
 
 /* Footer */
 
+footer > ul {
+    margin: none;
+}
+
 /* 404 Error Page */
 
 #error-image > img {
@@ -593,7 +597,7 @@ width: auto;
         letter-spacing: 1px;
     }
     
-    li {
+    #menu > li {
         margin: 0 5%;
     }
    
@@ -695,9 +699,11 @@ width: auto;
     height: 70%;
 }
 
-
 /* Footer */
 
+footer > ul {
+    margin: none;
+}
 
 /* 404 Error Page */
 
@@ -730,7 +736,7 @@ width: auto;
     }
 
        
-    li {
+    #menu > li {
         margin: 0 5%;
     }
 
