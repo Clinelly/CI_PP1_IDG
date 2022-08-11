@@ -565,6 +565,18 @@ width: auto;
 .medialinks i {
    font-size: 250%;
 }
+
+/* 404 Error Page */
+
+#error-image > img {
+    width: 100%;
+}
+
+#error-message {
+    width: 60%;
+    font-size: small;
+}
+
 }
 
 /* for smaller screens between 321px and 480px */
@@ -692,6 +704,18 @@ width: auto;
    .medialinks i {
        font-size: 250%;
    }
+
+/* 404 Error Page */
+
+#error-image > img {
+    width: 100%;
+}
+
+#error-message {
+    width: 60%;
+    font-size: small;
+}
+
 }
 
 /* for screen sizes between 481px and 768px */
@@ -801,6 +825,17 @@ width: auto;
     margin: 0 29%;
 }
 
+/* 404 Error Page */
+
+#error-image > img {
+    width: 90%;
+}
+
+#error-message {
+    width: 60%;
+    font-size: medium;
+}
+
 }
 
 /* for  screens sizes between 769px and 1024px */
@@ -853,6 +888,17 @@ width: auto;
     margin: 0 33%;
 }
 
+/* 404 Error Page */
+
+#error-image > img {
+    width: 80%;
+}
+
+#error-message {
+    width: 60%;
+    font-size: large;
+}
+
 }
 
 /* for  screens sizes between 1025px and 1200px */
@@ -892,4 +938,16 @@ width: auto;
 .medialinks {
     margin: 0 33%;
 }
+
+/* 404 Error Page */
+
+#error-image > img {
+    width: 80%;
+}
+
+#error-message {
+    width: 60%;
+    font-size: large;
+}
+
 }
