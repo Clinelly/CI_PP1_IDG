@@ -96,6 +96,8 @@ li {
     clear: both;
 }
 
+/* Animation for the Hero Image - fading between two pictures every 6 secs */
+
 #hero-image {
     animation-name: fade;
     animation-timing-function: ease-in-out;
@@ -325,6 +327,10 @@ li {
 
 /* Direct Contact and Google Map */
 
+#contact-info > h3, #find-us > h3 {
+    text-decoration: underline;
+}
+
 #contact-info {
     background-color: #65B3C7;
     width: 50%;
@@ -371,7 +377,7 @@ li {
     margin: auto;
     padding-top: 20px;
     clear: both;
-    color: #244047
+    color: #244047;
 }
 
 #map {
@@ -417,6 +423,7 @@ footer > ul {
     margin: auto;
     clear: both;
     display: block;
+    border: #1F7085 2px solid;
 }
 
 #error-message {
@@ -440,7 +447,7 @@ footer > ul {
 
 /* Media Queries */
 
-/* for very small screens 320px and smaller. */
+/* for very small screens 320px. */
 
 @media screen and (max-width: 320px) {
 
@@ -507,26 +514,13 @@ height: 50%;
 }
 
 #why-plumb div , #why-elect div {
-display: inline;
-clear: both;
-margin: auto;
-width: 100%;
-text-align: center;
+    display: inline;
+    clear: both;
+    margin: 10px auto;
+    width: 100%;
+    text-align: center;
 }
 
-#plumb-list  {
-display: inline;
-clear: both;
-margin: 10px auto;
-width: 100%;
-}
-
-#elec-list {
-display: inline;
-clear: both;
-margin: 10px auto;
-width: 10px 100%;
-}
 
 /* Gallery */
 
@@ -647,23 +641,9 @@ footer > ul {
 #why-plumb div , #why-elect div {
     display: inline;
     clear: both;
-    margin: auto;
-    width: 100%;
-    text-align: center;
-}
-
-#plumb-list  {
-    display: inline;
-    clear: both;
     margin: 10px auto;
     width: 100%;
-}
-
-#elec-list {
-    display: inline;
-    clear: both;
-    margin: auto;
-    width: 10px 100%;
+    text-align: center;
 }
 
 /* Gallery */
@@ -759,6 +739,8 @@ footer > ul {
     /* Services */
 
     #trade-services {
+        margin: auto;
+        clear: both;
         width: 70%;
     }
 
@@ -778,36 +760,21 @@ footer > ul {
         height: 50%;
     }
 
-
 #why-plumb div , #why-elect div {
     display: inline;
     clear: both;
-    margin: auto;
+    margin: 10px auto;
     width: 100%;
     text-align: center;
 }
 
-#plumb-list {
-    display: inline;
-    clear: both;
-    margin: auto;
-    width: 100%;
-}
-
-#elec-list {
-    display: inline;
-    clear: both;
-    margin: auto;
-    width: 100%;
-}
-
-    /* Gallery */
+/* Gallery */
 
 #photos > img {
     width: 50%;
 }
 
-    /* Contact Form */
+/* Contact Form */
 
 #contact-section {
     width: auto;
@@ -832,9 +799,6 @@ footer > ul {
     width: 70%;
     height: 70%;
 }
-
-/* Footer */
-
 
 /* 404 Error Page */
 
