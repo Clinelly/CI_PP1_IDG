@@ -44,7 +44,18 @@ This site will be used to promote and advertise the business to prospective user
 ## Project Goals
 
 ### User Goals
+- Being able to find a local tradesman.
+- Being able to see what services they provide.
+- Being able to contact the tradesman quickly in case of an emergency.
+- Being able to ask the business questions about prices. 
+- Being able to see previous customer reviews and pictures of completed work.
+
 ### Site Owner Goals
+- Being able to advertise the business.
+- Being able to increase the number of customers.
+- Being able to provide customers with an easy way to contact the business.
+- Being able to explain to customers what services the business provides.
+- Being able to show to customers what previous project have been completed.
 
 ## User Experience
 
