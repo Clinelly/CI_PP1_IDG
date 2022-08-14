@@ -10,83 +10,75 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
-
+        <!--link to style.css-->
         <link rel="stylesheet" href="assets/css/style.css">
-
         <title>IDG Plumbing & Electrical | Contact Us</title>
-
     </head>
-
     <body>
-
         <header>
-            <h1 id="logo">idg</h1>
-            
-        <nav>
-            <ul id="menu">
-                <li><a href=index.html>Home</a></li>
-                <li><a href=services.html>Services</a></li>
-                <li><a href=gallery.html>Gallery</a></li>
-                <li><a href=contact.html class="active">Contact</a></li>
-            </ul>
-        </nav>
-        
+            <!--logo-->
+            <h1 id="logo">idg</h1> 
+                <nav>
+                    <!--navigation bar-->
+                    <ul id="menu">
+                        <li><a href=index.html>Home</a></li>
+                        <li><a href=services.html>Services</a></li>
+                        <li><a href=gallery.html>Gallery</a></li>
+                        <li><a href=contact.html class="active">Contact</a></li>
+                    </ul>
+                </nav>
         </header>
-
-    <body>
         <section id="contact-section">
-        <form method="post" id="contact-form">
-            <label for="fullname">Full Name:</label>
-            <br>
-            <input type="text" name="fullname" class="job-input" required>
-            <br>
-            <label for="email">Email Address:</label>
-            <br>
-            <input type="email" name="email" class="job-input" required>
-            <br>
-            <label for="phone">Contact Number:</label>
-            <br>
-            <input type="number" name="phone" class="job-input" required>
-            <br>
-            <label for="jobtype">Job Description:</label>
-            <br>
-            <textarea name="jobtype" class="job-input" rows="5" cols="30" required></textarea>
-            <br>
-            <input type="checkbox" name="consent" class="box-input">
-            <label for="consent">I consent for my details to be stored by IDG for future use.</label>
-            <br>
-            <input type="submit" class ="quote-button" value="Get a Quote">
-        </form>
-        
-    </section>
-<section id="contact-find">
-    <div id="contact-info">
-        <h3>How to Contact Us:</h3>
-        <ul class="contact-list">
-            <li><i class="fas fa-map-marked-alt"></i> Trade World Parkgate, Unit 6 Tradeworld, Parkgate, Rotherham S62 6FP</li>
-            <li><i class="fas fa-mobile-alt"></i> 0123 456 789</li>
-            <li><i class="fas fa-at"></i> idgplumbing@gmail.com </li>
-        </ul>
-    </div>
-    <div id="find-us">
-        <h3>How to Find Us:</h3>
-        <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d6904.866238690447!2d-1.3540291020155575!3d53.44577226678885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x4879771eafaf44b7%3A0xd9aa58d6d1e73512!2sTrade%20World%20Parkgate%2C%20Unit%206%20Tradeworld%2C%20Parkgate%2C%20Rotherham%20S62%206FP!3m2!1d53.447225599999996!2d-1.3467224!5e0!3m2!1sen!2suk!4v1659780045310!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-</section>
-
-
+            <!--contact form-->
+            <form method="post" id="contact-form">
+                <label for="fullname">Full Name:</label>
+                <br>
+                <input type="text" name="fullname" class="job-input" required>
+                <br>
+                <label for="email">Email Address:</label>
+                <br>
+                <input type="email" name="email" class="job-input" required>
+                <br>
+                <label for="phone">Contact Number:</label>
+                <br>
+                <input type="number" name="phone" class="job-input" required>
+                <br>
+                <label for="jobtype">Job Description:</label>
+                <br>
+                <textarea name="jobtype" class="job-input" rows="5" cols="30" required></textarea>
+                <br>
+                <input type="checkbox" name="consent" class="box-input">
+                <label for="consent">I consent for my details to be stored by IDG for future use.</label>
+                <br>
+                <input type="submit" class ="quote-button" value="Get a Quote">
+            </form>       
+        </section>
+        <section id="contact-find">
+            <!--business contact information-->
+            <div id="contact-info">
+                <h3>How to Contact Us:</h3>
+                    <ul class="contact-list">
+                        <li><i class="fas fa-map-marked-alt"></i> Trade World Parkgate, Unit 6 Tradeworld, Parkgate, Rotherham S62 6FP</li>
+                        <li><i class="fas fa-mobile-alt"></i> 0123 456 789</li>
+                        <li><i class="fas fa-at"></i> idgplumbing@gmail.com </li>
+                    </ul>
+            </div>
+            <div id="find-us">
+                <!--iframe insert taken from google maps-->
+                <h3>How to Find Us:</h3>
+                    <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d6904.866238690447!2d-1.3540291020155575!3d53.44577226678885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x4879771eafaf44b7%3A0xd9aa58d6d1e73512!2sTrade%20World%20Parkgate%2C%20Unit%206%20Tradeworld%2C%20Parkgate%2C%20Rotherham%20S62%206FP!3m2!1d53.447225599999996!2d-1.3467224!5e0!3m2!1sen!2suk!4v1659780045310!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </section>
         <footer>
+            <!--links to external media-->
             <ul class="medialinks">
-            <li><a href="https://www.facebook.com/idgplumbingandelectrical/" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
-            <li><a href="mailto:idgplumbing@gmail.com" target="_blank"><i class="fas fa-envelope-square"></i></a></li>
-            <li><a href="tel:01234567890"><i class="fas fa-phone-square"></i></a></li>
-            <li><a href="https://www.checkatrade.com/trades/IDGPlumbingElectrical" target="_blank"><i class="fas fa-check-square"></i></a></li>
+                <li><a href="https://www.facebook.com/idgplumbingandelectrical/" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+                <li><a href="mailto:idgplumbing@gmail.com" target="_blank"><i class="fas fa-envelope-square"></i></a></li>
+                <li><a href="tel:01234567890"><i class="fas fa-phone-square"></i></a></li>
+                <li><a href="https://www.checkatrade.com/trades/IDGPlumbingElectrical" target="_blank"><i class="fas fa-check-square"></i></a></li>
             </ul>
-    
         </footer>
         <!--Font Awesome Script -->
         <script src="https://kit.fontawesome.com/749d4dd5a6.js" crossorigin="anonymous"></script>
     </body>
-
-
 </html>
