@@ -29,6 +29,8 @@ h2 {
     font-size: 125%;
 }
 
+/* turn logo into a circle */
+
 #logo {
     border-radius: 50%;
     text-align: center;
@@ -96,7 +98,7 @@ li {
     clear: both;
 }
 
-/* Animation for the Hero Image - fading between two pictures every 6 secs */
+/* Animation for the Hero Image - fading between two pictures every 6 secs. Code modified from an online blog and credited in readme */
 
 #hero-image {
     animation-name: fade;
@@ -106,18 +108,18 @@ li {
     animation-direction: alternate;
   }
   
-  @keyframes fade {
+@keyframes fade {
     0% {
-      opacity: 1;
+    opacity: 1;
     }
     25% {
-      opacity: 1;
+    opacity: 1;
     }
     75% {
-      opacity: 0;
+    opacity: 0;
     }
     100% {
-      opacity: 0;
+    opacity: 0;
     }
   }
 
@@ -155,7 +157,6 @@ li {
         border: #1F7085 solid 3px;
 }
 
-
 /* Services */
 
 #trade-services {
@@ -191,13 +192,14 @@ li {
     height: 300px;
     width: 100%;
     margin: auto;
-
 }
 
 #plumbing-services, #electrical-services {
     color: #244047;
     font-size: 120%;
 }
+
+/*creates an opaque block over background image for list to sit in */
 
 #plumbing-services > h3, #electrical-services > h3 {
     font-size: 150%;
@@ -239,7 +241,6 @@ li {
     margin: auto;
     clear: both;
     width: 100%;
-
 }
 
 #plumb-list {
@@ -265,6 +266,8 @@ li {
 }
 
 /* Gallery */
+
+/*creates a flexbox gallery allowing for greater responsive design. Code modified from a stackoverflow query and creditied in readme. */
 
 #photos {
     display: flex;
@@ -521,7 +524,6 @@ height: 50%;
     text-align: center;
 }
 
-
 /* Gallery */
 
 #photos > img {
@@ -580,20 +582,20 @@ footer > ul {
 
 /* Logo and Menu */
 
-    #logo {
-        margin: 0 34%;
-    }
+#logo {
+    margin: 0 34%;
+}
     
-    #menu {
-        margin: auto;
-        width: 100%;
-        font-size: 80%;
-        letter-spacing: 1px;
-    }
+#menu {
+    margin: auto;
+    width: 100%;
+    font-size: 80%;
+    letter-spacing: 1px;
+}
     
-    #menu > li {
-        margin: 0 5%;
-    }
+#menu > li {
+    margin: 0 5%;
+}
    
 /* About us */
 
@@ -601,8 +603,7 @@ footer > ul {
     width: 95%;
     height: 30%;
     font-size: 120%;
-
-    }
+}
 
 /* Index Reviews */
 
@@ -702,63 +703,62 @@ footer > ul {
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
 
-    /* Logo and Menu */
+/* Logo and Menu */
 
-    #logo {
-        clear: both;
-        margin: auto;
-        text-align: center;
-    }
+#logo {
+    clear: both;
+    margin: auto;
+    text-align: center;
+}
 
-    #menu {
-        width: 100%;
-        margin: auto;
-    }
-
-       
-    #menu > li {
-        margin: 0 5%;
-    }
-
-    /* About Us */
+#menu {
+    width: 100%;
+    margin: auto;
+}
     
-    #aboutus {
-        width: 60%;
-    }
+#menu > li {
+    margin: 0 5%;
+}
 
-    /* Reviews */
-
-    #reviews {
-        width: 80%;
-    }
-
-    .review-fb {
-        width: 80%;
-    }
-
-    /* Services */
-
-    #trade-services {
-        margin: auto;
-        clear: both;
-        width: 70%;
-    }
-
-    #plumbing-electric {
-        display: inline;
-        clear: both;
-    }
-
-    #plumbing-services > h3, #electrical-services > h3 {
-        width: 50%;
-        height: 10%;
-    }
+/* About Us */
     
-    .service-list {
-        display: block;
-        width: 50%;
-        height: 50%;
-    }
+#aboutus {
+    width: 60%;
+}
+
+/* Reviews */
+
+#reviews {
+    width: 80%;
+}
+
+.review-fb {
+    width: 80%;
+}
+
+/* Services */
+
+#trade-services {
+    margin: auto;
+    clear: both;
+    width: 70%;
+}
+
+#plumbing-electric {
+    display: inline;
+    clear: both;
+}
+
+#plumbing-services > h3, #electrical-services > h3 {
+    width: 50%;
+    height: 10%;
+}
+    
+.service-list {
+    display: block;
+    width: 50%;
+    height: 50%;
+}
 
 #why-plumb div , #why-elect div {
     display: inline;
@@ -833,17 +833,17 @@ footer > ul {
     width: 60%;
 }
 
-    #plumbing-services > h3, #electrical-services > h3 {
-        width: 60%;
-    }
+#plumbing-services > h3, #electrical-services > h3 {
+    width: 60%;
+}
     
-    .service-list {
-        width: 60%;
-    }
+.service-list {
+    width: 60%;
+}
 
-    #photos > img {
-        width: 50%;
-    }
+#photos > img {
+    width: 50%;
+}
 
 /* Direct Contact and Google Map */
 
@@ -860,9 +860,6 @@ footer > ul {
     width: 70%;
     height: 70%;
 }
-
-/* Footer */
-
 
 /* 404 Error Page */
 
@@ -881,23 +878,22 @@ footer > ul {
 
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
 
+.review-fb {
+    width: 80%;
+}
 
-    .review-fb {
-        width: 80%;
-    }
-
-    #plumbing-services > h3, #electrical-services > h3 {
-        font-size: 150%;
-        text-decoration: underline;
-        width: 60%;
-        height: 20%;
-    }
+#plumbing-services > h3, #electrical-services > h3 {
+    font-size: 150%;
+    text-decoration: underline;
+    width: 60%;
+    height: 20%;
+}
     
-    .service-list {
-        display: block;
-        width: 60%;
-        height: 50%;
-    }
+.service-list {
+    display: block;
+    width: 60%;
+    height: 50%;
+}
 /* Direct Contact and Google Map */
 
 #contact-info {
@@ -913,9 +909,6 @@ footer > ul {
     width: 70%;
     height: 70%;
 }
-
-/* Footer */
-
 
 /* 404 Error Page */
 
