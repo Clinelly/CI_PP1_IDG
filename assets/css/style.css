@@ -13,7 +13,6 @@ body {
 }
 
 /* Logo, Menu and Headings */
-
 header {
     background-color: #65B3C7;
     width: 100%;
@@ -30,7 +29,6 @@ h2 {
 }
 
 /* turn logo into a circle */
-
 #logo {
     border-radius: 50%;
     text-align: center;
@@ -83,7 +81,6 @@ li {
 }
 
 /* Hero Image */
-
 #hero-section {
     background: url(../images/consumer_board_testing.webp) no-repeat center center;
     height: 400px;
@@ -99,7 +96,6 @@ li {
 }
 
 /* Animation for the Hero Image - fading between two pictures every 6 secs. Code modified from an online blog and credited in readme */
-
 #hero-image {
     animation-name: fade;
     animation-timing-function: ease-in-out;
@@ -124,7 +120,6 @@ li {
   }
 
 /* Index About Us*/
-
 #aboutus {
     width: 50%;
     height: 40%;
@@ -144,21 +139,19 @@ li {
 }
 
 /* Index Reviews */
-
 #reviews {
-        font-size: 120%;
-        text-decoration: underline;
-        margin: auto;
-        text-align: center;
-        color: #244047;
-        background-color: #65B3C7;
-        width: 45%;
-        padding: 10px;
-        border: #1F7085 solid 3px;
+    font-size: 120%;
+    text-decoration: underline;
+    margin: auto;
+    text-align: center;
+    color: #244047;
+    background-color: #65B3C7;
+    width: 45%;
+    padding: 10px;
+    border: #1F7085 solid 3px;
 }
 
 /* Services */
-
 #trade-services {
     margin: auto;
     text-align: center;
@@ -200,7 +193,6 @@ li {
 }
 
 /*creates an opaque block over background image for list to sit in */
-
 #plumbing-services > h3, #electrical-services > h3 {
     font-size: 150%;
     text-decoration: underline;
@@ -266,9 +258,7 @@ li {
 }
 
 /* Gallery */
-
 /*creates a flexbox gallery allowing for greater responsive design. Code modified from a stackoverflow query and creditied in readme. */
-
 #photos {
     display: flex;
     flex-wrap: wrap;
@@ -283,7 +273,6 @@ li {
 }
 
 /* Contact Form */
-
 #contact-section {
     clear: both;
     background: url("/assets/images/van.jpg") no-repeat;
@@ -329,7 +318,6 @@ li {
 }
 
 /* Direct Contact and Google Map */
-
 #contact-info > h3, #find-us > h3 {
     text-decoration: underline;
 }
@@ -390,7 +378,6 @@ li {
 }
 
 /* Footer */
-
 footer {
  display: table;
  text-align: center;
@@ -412,7 +399,6 @@ footer > ul {
 }
 
 /* 404 Error Page */
-
 #error-image {
     width: 100%;
     height: auto;
@@ -449,13 +435,10 @@ footer > ul {
 }
 
 /* Media Queries */
-
 /* for very small screens 320px. */
-
 @media screen and (max-width: 320px) {
 
 /* Logo and Menu */
-
 #logo {
     margin-left: 25%;
 }
@@ -474,7 +457,6 @@ footer > ul {
 }
 
 /* About us */
-
 #aboutus {
 width: 95%;
 height: 30%;
@@ -483,7 +465,6 @@ font-size: 120%;
 }
 
 /* Index Reviews */
-
 #reviews {
 width: 90%;
 height: auto;
@@ -495,7 +476,6 @@ height: 30;
 }
 
 /* Services */
-
 #trade-services {
 width: auto;
 }
@@ -525,13 +505,11 @@ height: 50%;
 }
 
 /* Gallery */
-
 #photos > img {
 width: 100%;
 }
 
 /* Contact Form */
-
 #contact-section {
 height: auto;
 width: auto;
@@ -542,7 +520,6 @@ width: auto;
 }
 
 /* Direct Contact and Google Map */
-
 #contact-info {
     width: 80%;
 }
@@ -558,13 +535,11 @@ width: auto;
 }
 
 /* Footer */
-
 footer > ul {
     margin: none;
 }
 
 /* 404 Error Page */
-
 #error-image > img {
     width: 100%;
 }
@@ -577,11 +552,9 @@ footer > ul {
 }
 
 /* for smaller screens between 321px and 480px */
-
 @media screen and (min-width: 321px) and (max-width: 480px) {
 
 /* Logo and Menu */
-
 #logo {
     margin: 0 34%;
 }
@@ -598,7 +571,6 @@ footer > ul {
 }
    
 /* About us */
-
 #aboutus {
     width: 95%;
     height: 30%;
@@ -606,7 +578,6 @@ footer > ul {
 }
 
 /* Index Reviews */
-
 #reviews {
     width: 90%;
     height: auto;
@@ -618,7 +589,6 @@ footer > ul {
 }
 
 /* Services */
-
 #trade-services {
     width: auto;
 }
@@ -648,13 +618,11 @@ footer > ul {
 }
 
 /* Gallery */
-
 #photos > img {
     width: 100%;
 }
 
 /* Contact Form */
-
 #contact-section {
     height: auto;
     width: auto;
@@ -665,7 +633,6 @@ footer > ul {
 }
 
 /* Direct Contact and Google Map */
-
 #contact-info {
     width: 80%;
 }
@@ -681,13 +648,11 @@ footer > ul {
 }
 
 /* Footer */
-
 footer > ul {
     margin: none;
 }
 
 /* 404 Error Page */
-
 #error-image > img {
     width: 100%;
 }
@@ -700,11 +665,9 @@ footer > ul {
 }
 
 /* for screen sizes between 481px and 768px */
-
 @media screen and (min-width: 481px) and (max-width: 768px) {
 
 /* Logo and Menu */
-
 #logo {
     clear: both;
     margin: auto;
@@ -720,14 +683,12 @@ footer > ul {
     margin: 0 5%;
 }
 
-/* About Us */
-    
+/* About Us */   
 #aboutus {
     width: 60%;
 }
 
 /* Reviews */
-
 #reviews {
     width: 80%;
 }
@@ -737,7 +698,6 @@ footer > ul {
 }
 
 /* Services */
-
 #trade-services {
     margin: auto;
     clear: both;
@@ -769,13 +729,11 @@ footer > ul {
 }
 
 /* Gallery */
-
 #photos > img {
     width: 50%;
 }
 
 /* Contact Form */
-
 #contact-section {
     width: auto;
 }
@@ -785,7 +743,6 @@ footer > ul {
 }
 
 /* Direct Contact and Google Map */
-
 #contact-info {
     width: 80%;
 }
@@ -801,7 +758,6 @@ footer > ul {
 }
 
 /* 404 Error Page */
-
 #error-image > img {
     width: 90%;
 }
@@ -814,11 +770,9 @@ footer > ul {
 }
 
 /* for  screens sizes between 769px and 1024px */
-
 @media screen and (min-width: 769px) and (max-width: 1024px) {
 
 /* Index */
-
 #reviews{
     width: 55%;
 }
@@ -828,7 +782,6 @@ footer > ul {
 }
 
 /* Services */
-
 #trade-services {
     width: 60%;
 }
@@ -846,7 +799,6 @@ footer > ul {
 }
 
 /* Direct Contact and Google Map */
-
 #contact-info {
     width: 80%;
 }
@@ -862,7 +814,6 @@ footer > ul {
 }
 
 /* 404 Error Page */
-
 #error-image > img {
     width: 80%;
 }
@@ -875,7 +826,6 @@ footer > ul {
 }
 
 /* for  screens sizes between 1025px and 1200px */
-
 @media screen and (min-width: 1025px) and (max-width: 1200px) {
 
 .review-fb {
@@ -894,8 +844,8 @@ footer > ul {
     width: 60%;
     height: 50%;
 }
-/* Direct Contact and Google Map */
 
+/* Direct Contact and Google Map */
 #contact-info {
     width: 80%;
 }
@@ -911,7 +861,6 @@ footer > ul {
 }
 
 /* 404 Error Page */
-
 #error-image > img {
     width: 80%;
 }
