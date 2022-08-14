@@ -108,6 +108,64 @@ A frequent user is someone who utilises IDG's services on a regular basis. A con
 
 ## Features
 
+### Existing Features
+ 
+**Logo**
+ 
+The Logo in the top left of the page is an important advertisement of the company to the users. It is repeated across all the pages in a uniform location.
+ 
+**Navigation Bar**
+ 
+Located in the top left of the Home, Services, Gallery and Contact pages, the bar provides users with the ability to efficiently navigate the site to browse for relevant content. It also allows users to navigate backwards through the site without having to use the browser-based back button or keyboard shortcuts.
+ 
+**Main Image**
+ 
+The main images provide users with a visual representation of the type of services that IDG offers. This can reassure users that they are on the relevant website if they require a utilities service.
+ 
+**About Us**
+ 
+A small paragraph that describes IDG. It provides users with information about IDG, the services it provides and the location it operates in.
+ 
+**Reviews**
+ 
+A number of positive reviews taken from IDG's Facebook page, providing users with real feedback from other users who have used IDG's services.
+ 
+**Media Links**
+ 
+Featured at the bottom of the page, throughout the website, a series of images provide users with links to external websites for their own research.
+* Facebook: A link to IDG's Facebook page, featuring more reviews, pictures and updates.
+* Email: Opens up a 'mail:to' link, direct to IDG's email account.
+* Phone: Opens up a 'tel:' link to IDG's phone number - ideal for emergency users.
+* Checkatrade: Opens up a link to IDG's Check'a'trade webpage.
+ 
+**Services Page**
+ 
+This page provides more in-depth descriptions of the type of services that IDG offers and provides. This is where users would go and match IGD's services to their needs and move on to eventually hiring them.
+ 
+**Our Services**
+ 
+A small paragraph outlining IDG's services.
+ 
+**Electrical and Plumbing Services**
+ 
+An overview list of specific services available to users. Featured over relevant imagery to catch the user's attention.
+ 
+**Electrical and Plumbing Services Pt.2**
+ 
+A detailed breakdown of each service provided and a descriptive paragraph to help sell the service to the user, or help them match their specific requirement.
+Provided in a display element to help reduce information overload and provide an element of interaction to the user.
+ 
+**Gallery**
+ 
+A gallery of photographs from jobs IDG has performed in the past. It is designed to show users the quality of work they can expect and to provide ideas and inspirations.
+ 
+**Contact Page**
+ 
+A form system where users can get in touch with IDG. Users will be able to describe their requirements, ask questions, arrange meetings or ask for job quotes.
+Users will be asked to provide their names and contact information.
+
+### Features to be Implemented
+
 ## Testing
 
 ### HTML Validation
@@ -115,6 +173,11 @@ A frequent user is someone who utilises IDG's services on a regular basis. A con
 ### Accessibility
 ### Performance
 ### Device testing
+ 
+Responsive testing was accomplished through the use of Google Chrome Dev Tools and active resizing of the viewport.
+ 
+Amiresponsive? :
+
 ### Browser compatibility
 ### Testing user stories
 
@@ -122,6 +185,28 @@ A frequent user is someone who utilises IDG's services on a regular basis. A con
 
 ## Deployment
 
+The site was deployed to GitHub pages.
+ 
+The steps to deploy it were:
+In the GitHub repository, navigate to the Settings tab.
+From the source section drop-down menu, select the Master Branch.
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+ 
+The live link can be found here - https://clinelly.github.io/CI_PP1_IDG/
+
+
 ## Credits
+
+### Content
+
+The reviews were taken from Facebook and embedded using Facebook's embed feature.
+Icons for the media links were taken from FontAwesome.
+Footer and Hero Image code were modified from CodeInsitute's 'Love Running' project.
+Hero Image animation was modified from : https://www.taniarascia.com/crossfade-between-two-images-with-css-animations/
+The code for the flexbox gallery was taken from stackoverflow.
+
+### Media
+ 
+All images were taken from www.pixabay.com
 
 ## Acknowledgements
