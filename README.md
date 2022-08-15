@@ -104,7 +104,20 @@ A frequent user is someone who utilises IDG's services on a regular basis. A con
 ## Technologies Used
 
 ### Languages
+
+- HTML 
+- CSS
+
 ### Frameworks & Tools
+
+- Git
+- GitHub
+- GitPod
+- Balsamiq
+- Google Fonts
+- Adobe Colour
+- Font Awesome
+- Favicon.io
 
 ## Features
 
@@ -187,7 +200,7 @@ Amiresponsive? :
 
 The site was deployed to GitHub pages.
  
-The steps to deploy it were:
+The steps followed to deploy it were:
 In the GitHub repository, navigate to the Settings tab.
 From the source section drop-down menu, select the Master Branch.
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
@@ -199,11 +212,12 @@ The live link can be found here - https://clinelly.github.io/CI_PP1_IDG/
 
 ### Content
 
-The reviews were taken from Facebook and embedded using Facebook's embed feature.
-Icons for the media links were taken from FontAwesome.
-Footer and Hero Image code were modified from CodeInsitute's 'Love Running' project.
-Hero Image animation was modified from : https://www.taniarascia.com/crossfade-between-two-images-with-css-animations/
-The code for the flexbox gallery was taken from stackoverflow.
+- Facebook Review iframes: taken from <a href="https://www.facebook.com/idgplumbingandelectrical/">Facebook</a> and the code was copied from Facebook's 'embed' feature.
+- Icons: used for the external media links in the footer, and in the contact information. Taken from <a href="https://fontawesome.com/">FontAwesome.</a>
+- Footer: code  modified from <a href="https://www.codeinstitute.com">CodeInsitute's</a> 'Love Running' project.
+- Hero Image: animation code was modified by a blog by <a href="https://www.taniarascia.com/crossfade-between-two-images-with-css-animations/">Tania Rascia.</a> 
+- Gallery: flexbox code and layout code modified from a <a href="https://stackoverflow.com/questions/39941941/order-of-items-with-column-count-property">StackOverflow</a> query.
+- Google Maps iframe: taken from <a href="https://https://www.google.co.uk/maps">Google Maps</a> and the code was copied from Google Map's 'embed' feature.
 
 ### Media
 
@@ -219,7 +233,7 @@ The code for the flexbox gallery was taken from stackoverflow.
 - [bathroom](assets/images/bathroom.webp)Photo by:<a href="https://pixabay.com/users/5460160-5460160/">User 5460160</a>
 Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 - [consumer_board](assets/images/consumer_board.jpg)Photo by: <a href="https://pixabay.com/users/image4you-2459255/">image4you</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- 
+- [ev_charger_with_car](assets/images/ev_charger_with_car.jpg) Photo orginally taken from <a href="https://pixabay.com/">Pixabay</a> but has since been removed. Original artist unknown.
 - [ev_charger](assets/images/ev_charger.jpg)Photo by:<a href="https://pixabay.com/users/hookyunglee-5559954/">hookyunglee</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 - [light_bulbs_library](assets/images/light_bulbs_library.jpg) Photo by: <a href="https://pixabay.com/users/stocksnap-894430/">stocksnap</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 - [light_bulbs](assets/images/light_bulbs.jpg)Photo by: <a href="https://pixabay.com/users/pexels-2286921/">pexels</a>
@@ -236,7 +250,10 @@ Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 - [garden-hose](assets/images/garden-hose.jpg)Photo by: <a href="https://pixabay.com/users/9436196-9436196/"> User 9436196</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 
 **Contact Form**
+- [van](assets/images/van.jpg) Photo by: <a href="https://pixabay.com/users/publicdomainpictures-14/"> PublicDomainPictures</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 
+**404 Page**
+- [electric-socket-disconnection-404-error](assets/images/electric-socket-disconnection-404-error.jpg) Image by: <a href="https://www.vecteezy.com/members/lucky-creative">Lucky Creative</a> Uploaded to: <a href="https://www.vecteezy.com/">Vecteezy</a>
 
 
 
