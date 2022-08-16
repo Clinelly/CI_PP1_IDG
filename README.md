@@ -43,6 +43,8 @@ This site will be used to promote and advertise the business to prospective user
 
 ## Project Goals
 
+The ultimate goal of the project is to create a website for a small business and showcase their services; bringing them new customers and helping expand their business.
+
 ### User Goals
 - Being able to find a local tradesman.
 - Being able to see what services they provide.
@@ -60,6 +62,11 @@ This site will be used to promote and advertise the business to prospective user
 ## User Experience
 
 ### Target Audience 
+
+- People who need a plumber/electrician in an emergency.
+- People who are looking for a plumber/electrician to carry out routine or planned work.
+- People who may be looking for inspiration or ideas for home improvements.
+- Organisations who may be looking to contract a new tradesman.
 
 ### User Requrements and Expectations
 
@@ -92,11 +99,26 @@ A frequent user is someone who utilises IDG's services on a regular basis. A con
 10. To check to see if there are any new reviews.
 11. To be informed if the service provider is continuing to trade.
 
-
 ## Design
 
 ### Design Choices
+
+The website was designed around the idea of a utility service. A monochrome scheme was used to attempt to convey a sense of modern professionalism; the colour choices and geometric shapes focus on the utilitarian aspect of the business.
+
 ### Colour
+
+- For the colour scheme, I wanted to convey a sense of professionalism and a link to the plumbing aspect of the business. I chose a monochrome scheme, centered around a light blue background, with darker grey colours providing contrast for borders and text.
+
+![Colour Scheme](docs/features/IDG_main_scheme.png)
+
+- During testing, it was found that the contrast between the text and background colours was not sharp enough; leading to accessibility problems. I put the main scheme back into the colour wheel and darkened it to provide a sharper text colour.
+
+![Text Scheme](docs/features/IDG_text_scheme.png)
+
+- Finally, I wanted the logo to 'pop' from the screen to catch the user's eye and highlight the electrical side of the business using contrasting, bright colours.
+
+![Logo Scheme](docs/features/IDG_logo_scheme.png)
+
 ### Fonts
 ### Structure
 ### Wireframes
