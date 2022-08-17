@@ -120,7 +120,21 @@ The website was designed around the idea of a utility service. A monochrome sche
 ![Logo Scheme](docs/features/IDG_logo_scheme.png)
 
 ### Fonts
+
+Roboto Slab was used for the headings and Roboto Condensed for the body. Sans Serif was chosen as a back-up font.
+<br>
+Roboto was chosen because it fit with the utilitarian asthetic of the website. Slab was used for the headings to provide greater definition over the Condensed body font.
+
 ### Structure
+
+The website has a generic layout, used across the internet. This is to convey a sense of familiarity and prevent a frustrating user experience by having a complex, unfamiliar layout. The header contains the company logo in the top right of the screen, with a navigation bar in the top left. The main content is displayed in the main body in the centre of the screen. The footer is located at the bottom of the webpage and contains direct links to related external media.
+
+The website has four pages:
+- The Home page, which provides user with a basic outline about the company.
+- The Services page, which goes into detail about what the company offers and what users can expect.
+- The Gallery page, which provides users with images and pictures of what the company can provide and has accomplished in the past.
+- The Contact page, which allows the user to provide their personal details and a detailed query to the company for a tailored response.
+
 ### Wireframes
 
 ## Technologies Used
@@ -140,30 +154,44 @@ The website was designed around the idea of a utility service. A monochrome sche
 - Adobe Colour
 - Font Awesome
 - Favicon.io
+- Google Chrome Developer Tools
 
 ## Features
+
+This website consists of four pages and 12 features.
 
 ### Existing Features
  
 **Logo**
  
 The Logo in the top left of the page is an important advertisement of the company to the users. It is repeated across all the pages in a uniform location.
+
+![Logo](docs/features/logo.png)
  
 **Navigation Bar**
  
 Located in the top left of the Home, Services, Gallery and Contact pages, the bar provides users with the ability to efficiently navigate the site to browse for relevant content. It also allows users to navigate backwards through the site without having to use the browser-based back button or keyboard shortcuts.
+
+![Navigation Bar](docs/features/navbar.png)
  
 **Main Image**
  
-The main images provide users with a visual representation of the type of services that IDG offers. This can reassure users that they are on the relevant website if they require a utilities service.
+The main images provide users with a visual representation of the type of services that IDG offers. This can reassure users that they are on the relevant website if they require a utilities service. The images are animated to shift between two pictures, providing visual feedback to the user.
+
+![Hero Image](docs/features/hero-image1.png)
+![Hero Image](docs/features/hero-image2.png)
  
 **About Us**
  
 A small paragraph that describes IDG. It provides users with information about IDG, the services it provides and the location it operates in.
+
+![About Us](docs/features/about-us.png)
  
 **Reviews**
  
 A number of positive reviews taken from IDG's Facebook page, providing users with real feedback from other users who have used IDG's services.
+
+![Reviews](docs/features/facebook_reviews.png)
  
 **Media Links**
  
@@ -172,32 +200,46 @@ Featured at the bottom of the page, throughout the website, a series of images p
 * Email: Opens up a 'mail:to' link, direct to IDG's email account.
 * Phone: Opens up a 'tel:' link to IDG's phone number - ideal for emergency users.
 * Checkatrade: Opens up a link to IDG's Check'a'trade webpage.
- 
-**Services Page**
- 
-This page provides more in-depth descriptions of the type of services that IDG offers and provides. This is where users would go and match IGD's services to their needs and move on to eventually hiring them.
+
+![Footer](docs/features/footer.png)
  
 **Our Services**
  
 A small paragraph outlining IDG's services.
+
+![Services](docs/features/services.png)
  
 **Electrical and Plumbing Services**
  
 An overview list of specific services available to users. Featured over relevant imagery to catch the user's attention.
+
+![Utility Services](docs/features/utility-services.png)
  
 **Electrical and Plumbing Services Pt.2**
  
 A detailed breakdown of each service provided and a descriptive paragraph to help sell the service to the user, or help them match their specific requirement.
 Provided in a display element to help reduce information overload and provide an element of interaction to the user.
+
+![Detailed Services](docs/features/detailed-services.png)
  
 **Gallery**
  
 A gallery of photographs from jobs IDG has performed in the past. It is designed to show users the quality of work they can expect and to provide ideas and inspirations.
+
+![Gallery](docs/features/gallery.png)
  
-**Contact Page**
+**Contact Form**
  
 A form system where users can get in touch with IDG. Users will be able to describe their requirements, ask questions, arrange meetings or ask for job quotes.
 Users will be asked to provide their names and contact information.
+
+![Contact Form](docs/features/contact-form.png)
+
+**Contact Details and Location**
+
+A small section where the user can find the direct contact details for IDG, as well as their location on Google Maps.
+
+![Contact Details](docs/features/contact-map.png)
 
 ### Features to be Implemented
 
