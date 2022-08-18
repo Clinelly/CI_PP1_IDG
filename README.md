@@ -137,6 +137,19 @@ The website has four pages:
 
 ### Wireframes
 
+<details><summary>Home</summary>
+<img src="docs/wireframes/home_page.png">
+</details>
+<details><summary>Services</summary>
+<img src="docs /wireframes/services.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/wireframes/gallery.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/contact.png">
+</details>
+
 ## Technologies Used
 
 ### Languages
@@ -500,31 +513,31 @@ The live link can be found here - https://clinelly.github.io/CI_PP1_IDG/
 
 **Hero Image**
 - [consumer_board_testing](assets/images/consumer_board_testing.webp)Photo by:<a href="https://pixabay.com/users/jarmoluk-143740/"> Jarmoluk</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [water_pipes](assets/images/water_pipes.jpg)Photo by: <a href="https://pixabay.com/users/5317367-5317367/"> User 5317367</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [water_pipes](assets/images/water_pipes.webp)Photo by: <a href="https://pixabay.com/users/5317367-5317367/"> User 5317367</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 
 **Services Background**
-- [plumbing_tools](assets/images/plumbing_tools.jpg)Photo by:<a href="https://pixabay.com/users/stevepb-282134/">Stevepb</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [electrician_tools](assets/images/electrician_tools.jpg)Photo by: <a href="https://pixabay.com/users/falconp4-6175978/">falconp4</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [plumbing_tools](assets/images/plumbing_tools.webp)Photo by:<a href="https://pixabay.com/users/stevepb-282134/">Stevepb</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [electrician_tools](assets/images/electrician_tools.webp)Photo by: <a href="https://pixabay.com/users/falconp4-6175978/">falconp4</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 
 **Gallery**
 - [bathroom](assets/images/bathroom.webp)Photo by:<a href="https://pixabay.com/users/5460160-5460160/">User 5460160</a>
 Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [consumer_board](assets/images/consumer_board.jpg)Photo by: <a href="https://pixabay.com/users/image4you-2459255/">image4you</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [ev_charger_with_car](assets/images/ev_charger_with_car.jpg) Photo orginally taken from <a href="https://pixabay.com/">Pixabay</a> but has since been removed. Original artist unknown.
-- [ev_charger](assets/images/ev_charger.jpg)Photo by:<a href="https://pixabay.com/users/hookyunglee-5559954/">hookyunglee</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [light_bulbs_library](assets/images/light_bulbs_library.jpg) Photo by: <a href="https://pixabay.com/users/stocksnap-894430/">stocksnap</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [light_bulbs](assets/images/light_bulbs.jpg)Photo by: <a href="https://pixabay.com/users/pexels-2286921/">pexels</a>
+- [consumer_board](assets/images/consumer_board.webp)Photo by: <a href="https://pixabay.com/users/image4you-2459255/">image4you</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [ev_charger_with_car](assets/images/ev_charger_with_car.webp) Photo orginally taken from <a href="https://pixabay.com/">Pixabay</a> but has since been removed. Original artist unknown.
+- [ev_charger](assets/images/ev_charger.webp)Photo by:<a href="https://pixabay.com/users/hookyunglee-5559954/">hookyunglee</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [light_bulbs_library](assets/images/light_bulbs_library.webp) Photo by: <a href="https://pixabay.com/users/stocksnap-894430/">stocksnap</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [light_bulbs](assets/images/light_bulbs.webp)Photo by: <a href="https://pixabay.com/users/pexels-2286921/">pexels</a>
 Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [sink_tap](assets/images/sink_tap.jpg) Photo by: <a href="https://pixabay.com/users/krysmantovani-10901427/">krysmantovani</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [usb_sockets](assets/images/usb_sockets.jpg)Photo by: <a href="https://www.facebook.com/idgplumbingandelectrical/">IDG Plumbing and Electrical</a> Uploaded to:<a href="https://www.facebook.com/">Facebook</a>
+- [sink_tap](assets/images/sink_tap.webp) Photo by: <a href="https://pixabay.com/users/krysmantovani-10901427/">krysmantovani</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [usb_sockets](assets/images/usb_sockets.webp)Photo by: <a href="https://www.facebook.com/idgplumbingandelectrical/">IDG Plumbing and Electrical</a> Uploaded to:<a href="https://www.facebook.com/">Facebook</a>
 - [bathroom_2](assets/images/bathroom_2.webp)Photo by:<a href="https://pixabay.com/users/jarmoluk-143740/"> Jarmoluk</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [bathroom_sink](assets/images/bathroom_sink.jpg) Photo by: <a href="https://pixabay.com/users/pexels-2286921/">pexels</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [lamp_outdoor](assets/images/lamp_outdoor.jpg) Photo by: <a href="https://pixabay.com/users/anders_mejlvang-19206329/"> Anders_Mejlvang </a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [outdoor_tap](assets/images/outdoor_tap.jpg) Photo by: <a href="https://pixabay.com/users/jonaskim-7133458/">JonasKim</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [bathroom_3](assets/images/bathroom_3.jpg)Photo by: <a href="https://pixabay.com/users/midascode-2412635/">midascode</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [plug](assets/images/plug.jpg)Photo by:<a href="https://pixabay.com/users/stevepb-282134/">Stevepb</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [electric_wires](assets/images/electric_wires.jpg) Photo by: <a href="https://pixabay.com/users/taken-336382/">taken</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
-- [garden-hose](assets/images/garden-hose.jpg)Photo by: <a href="https://pixabay.com/users/9436196-9436196/"> User 9436196</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [bathroom_sink](assets/images/bathroom_sink.webp) Photo by: <a href="https://pixabay.com/users/pexels-2286921/">pexels</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [lamp_outdoor](assets/images/lamp_outdoor.webp) Photo by: <a href="https://pixabay.com/users/anders_mejlvang-19206329/"> Anders_Mejlvang </a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [outdoor_tap](assets/images/outdoor_tap.webp) Photo by: <a href="https://pixabay.com/users/jonaskim-7133458/">JonasKim</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [bathroom_3](assets/images/bathroom_3.webp)Photo by: <a href="https://pixabay.com/users/midascode-2412635/">midascode</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [plug](assets/images/plug.webp)Photo by:<a href="https://pixabay.com/users/stevepb-282134/">Stevepb</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [electric_wires](assets/images/electric_wires.webp) Photo by: <a href="https://pixabay.com/users/taken-336382/">taken</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [garden-hose](assets/images/garden-hose.webp)Photo by: <a href="https://pixabay.com/users/9436196-9436196/"> User 9436196</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 
 **Contact Form**
 - [van](assets/images/van.webp) Photo by: <a href="https://pixabay.com/users/publicdomainpictures-14/"> PublicDomainPictures</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
