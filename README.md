@@ -275,6 +275,24 @@ The W3C CSS Validation tool was used to check the validity of the CSS code used 
 </details>
 
 ### Accessibility
+
+The WAVE WebAIM accessibility tool was used to evaluate the website's accessibility.
+One error was returned, which linked to the 'tel:to' external link in the footer. The telephone number linked is a dummy number and will not activate upon interaction.
+
+<details><summary>Home</summary>
+<img src="docs/validation/accessibility_home.png">
+</details>
+<details><summary>Services</summary>
+<img src="docs/validation/accessibility_services.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/accessibility_gallery.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/accessibility_contact.png">
+</details>
+
+
 ### Performance
 ### Device testing
  
