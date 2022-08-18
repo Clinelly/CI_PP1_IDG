@@ -141,7 +141,6 @@ li {
 /* Index Reviews */
 #reviews {
     font-size: 120%;
-    text-decoration: underline;
     margin: auto;
     text-align: center;
     color: #244047;
@@ -305,7 +304,7 @@ li {
 
 .quote-button {
     background-color: #3E6E7A;
-    color: #7FE1FA;
+    color: white;
     font-size: 100%;
     padding: 10px 10px 10px 10px;
     border: 1px solid white;
