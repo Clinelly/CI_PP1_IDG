@@ -294,6 +294,9 @@ One error was returned, which linked to the 'tel:to' external link in the footer
 
 
 ### Performance
+
+
+
 ### Device testing
  
 Responsive testing was accomplished through the use of Google Chrome Dev Tools and active resizing of the viewport.
