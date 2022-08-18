@@ -536,7 +536,7 @@ width: auto;
 
 /* Footer */
 footer > ul {
-    margin: none;
+    margin: 0;
 }
 
 /* 404 Error Page */
@@ -649,7 +649,7 @@ footer > ul {
 
 /* Footer */
 footer > ul {
-    margin: none;
+    margin: 0;
 }
 
 /* 404 Error Page */
