@@ -172,11 +172,15 @@ The Logo in the top left of the page is an important advertisement of the compan
  
 Located in the top left of the Home, Services, Gallery and Contact pages, the bar provides users with the ability to efficiently navigate the site to browse for relevant content. It also allows users to navigate backwards through the site without having to use the browser-based back button or keyboard shortcuts.
 
+User Stories Covered: 2
+
 ![Navigation Bar](docs/features/navbar.png)
  
 **Main Image**
  
 The main images provide users with a visual representation of the type of services that IDG offers. This can reassure users that they are on the relevant website if they require a utilities service. The images are animated to shift between two pictures, providing visual feedback to the user.
+
+User Stories Covered: 1
 
 ![Hero Image](docs/features/hero-image1.png)
 ![Hero Image](docs/features/hero-image2.png)
@@ -185,11 +189,15 @@ The main images provide users with a visual representation of the type of servic
  
 A small paragraph that describes IDG. It provides users with information about IDG, the services it provides and the location it operates in.
 
+User Stories Covered: 1
+
 ![About Us](docs/features/about-us.png)
  
 **Reviews**
  
 A number of positive reviews taken from IDG's Facebook page, providing users with real feedback from other users who have used IDG's services.
+
+User Stories Covered: 3, 10, 11
 
 ![Reviews](docs/features/facebook_reviews.png)
  
@@ -201,17 +209,23 @@ Featured at the bottom of the page, throughout the website, a series of images p
 * Phone: Opens up a 'tel:' link to IDG's phone number - ideal for emergency users.
 * Checkatrade: Opens up a link to IDG's Check'a'trade webpage.
 
+User Stories Covered: 4, 5, 7
+
 ![Footer](docs/features/footer.png)
  
 **Our Services**
  
 A small paragraph outlining IDG's services.
 
+User Stories Covered: 1, 6, 8
+
 ![Services](docs/features/services.png)
  
 **Electrical and Plumbing Services**
  
 An overview list of specific services available to users. Featured over relevant imagery to catch the user's attention.
+
+User Stories Covered: 1, 6, 8
 
 ![Utility Services](docs/features/utility-services.png)
  
@@ -220,11 +234,15 @@ An overview list of specific services available to users. Featured over relevant
 A detailed breakdown of each service provided and a descriptive paragraph to help sell the service to the user, or help them match their specific requirement.
 Provided in a display element to help reduce information overload and provide an element of interaction to the user.
 
+User Stories Covered: 1, 6, 8
+
 ![Detailed Services](docs/features/detailed-services.png)
  
 **Gallery**
  
 A gallery of photographs from jobs IDG has performed in the past. It is designed to show users the quality of work they can expect and to provide ideas and inspirations.
+
+User Stories Covered: 8, 9, 11
 
 ![Gallery](docs/features/gallery.png)
  
@@ -233,11 +251,15 @@ A gallery of photographs from jobs IDG has performed in the past. It is designed
 A form system where users can get in touch with IDG. Users will be able to describe their requirements, ask questions, arrange meetings or ask for job quotes.
 Users will be asked to provide their names and contact information.
 
+User Stories Covered: 5, 6, 7
+
 ![Contact Form](docs/features/contact-form.png)
 
 **Contact Details and Location**
 
 A small section where the user can find the direct contact details for IDG, as well as their location on Google Maps.
+
+User Stories Covered: 5, 6, 7
 
 ![Contact Details](docs/features/contact-map.png)
 
@@ -298,12 +320,18 @@ One error was returned, which linked to the 'tel:to' external link in the footer
 
 
 ### Device testing
- 
-Responsive testing was accomplished through the use of Google Chrome Dev Tools and active resizing of the viewport.
 
+The website was tested on the following devices:
+- Google Pixel 6
+- iPhone 11 Pro
+- Acer Chromebook 314
 
 ### Browser compatibility
 
+The website was tested on the following broswers:
+- Microsoft Edge
+- Mozilla Firefox
+- Google Chrome
 
 ### Testing user stories
 
