@@ -246,6 +246,27 @@ A small section where the user can find the direct contact details for IDG, as w
 ## Testing
 
 ### HTML Validation
+
+The W3C Markup Validation Service was used to check the validity of the HTML used across the website.
+A number of errors were flagged; however, these were recorded as part of the Facebook code for the embedded reviews. No errors were shown with regard to my custom HTML.
+Two warnings were flagged:
+ - Sections lacking headings. These sections were used to house images as a background and did not require headings.
+ - ARIA-Label. An ARIA-Label was placed on the contact links in the footer for accessibilty.
+
+<details><summary>Home</summary>
+<img src="docs/validation/validator_home.png">
+</details>
+<details><summary>Services</summary>
+<img src="docs/validation/validator_services.png">
+</details>
+<details><summary>Gallery</summary>
+<img src="docs/validation/validator_gallery.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/validator_contact.png">
+</details>
+
+
 ### CSS Validation
 ### Accessibility
 ### Performance
