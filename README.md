@@ -329,6 +329,7 @@ The live link can be found here - https://clinelly.github.io/CI_PP1_IDG/
 - Hero Image: animation code was modified by a blog by <a href="https://www.taniarascia.com/crossfade-between-two-images-with-css-animations/">Tania Rascia.</a> 
 - Gallery: flexbox code and layout code modified from a <a href="https://stackoverflow.com/questions/39941941/order-of-items-with-column-count-property">StackOverflow</a> query.
 - Google Maps iframe: taken from <a href="https://https://www.google.co.uk/maps">Google Maps</a> and the code was copied from Google Map's 'embed' feature.
+- Preload commands taken from <a href="https://web.dev/uses-rel-preconnect/?utm_source=lighthouse&utm_medium=devtools">Web.dev.</a>
 
 ### Media
 
