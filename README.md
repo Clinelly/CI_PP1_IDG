@@ -303,7 +303,131 @@ Responsive testing was accomplished through the use of Google Chrome Dev Tools a
 
 
 ### Browser compatibility
+
+
 ### Testing user stories
+
+1. To easily understand the main purpose of the site and learn more about the organisation.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Main Image | Navigate to the Home page and locate the main image  | View the main image | Works as expected |
+| About Us | Navigate to the Home page and scroll down to find the About Us section | Locate the About Us section | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+2. To be easily able navigate throughout the site to find content.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navigation Bar | On any page, locate the nav bar in the top-right corner and click on a page link. | Navigation bar is visible on each page, the links are active and will take you to a new page. | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+3. To look for testimonials from other users and find out what they think of the service provider and see if they are trusted.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Reviews | Navigate to the Home page. Scroll down to locate the Review section. Locate the Facebook reviews. | Facebook reviews are visible. | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+4. To locate their social media links to see the organisations' followings on social media to determine how trusted and known they are.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Media Links | On any page, scroll down to locate the Footer section. Click on the Facebook or Tick logo. | Media Links take you to external Social Media sites. | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+5. To quickly and easily contact the service provider and utilise their services.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Media Links | On any page, scroll down to locate the Footer section. Click on the Envelope or Telephone. | Envelope generates an email, Telephone generates a phone call. | Works as expected |
+| Contact Form | Navigate to the Contact page and scroll down to find the Contact Form. | Locate and populate the Contact Form | Works as expected |
+
+**NB:**The telephone number used is a non-functioning phone number, so it will not generate a phone call. The website also has no functioning back-end, so the Contact Form is non-functional at this moment in time.
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+
+6. To find information about additional services.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Our Services | Navigate to the Services page and locate the Our Services section. | Our Services section is visible and provides a description of the business. | Works as expected |
+| Electrical & Plumbing Services | Navigate to the Services page and locate the Electrical and Plumbing Services, located. | Lists are visible and provide the user with an outline of services provided. | Works as expected |
+| Electrical & Plumbing Services Pt.2 |  Navigate to the Services page and scroll down to the collapsible sections. | Click on an item to view a detailed description. | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+7. To find the best way to get in contact with the organisation with any questions I may have.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact page and scroll down to find the Contact Form. | Locate and populate the Contact Form | Works as expected |
+| Contact Details | Navigate to the Contact page and scroll down to find the Contact Details. | Direct Contact Details and a map to the business location are visible. | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+8. To find ideas and inspirations.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | Navigate to the Gallery page and scroll down to view all the images. | All images from work completed are visible.| Works as expected |
+| Electrical & Plumbing Services Pt.2 |  Navigate to the Services page and scroll down to the collapsible sections. | Click on an item to view a detailed description. | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+9. To check to see if the gallery has been updated with new work.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | Navigate to the Gallery page and scroll down to view all the images. | All images from work completed are visible.| Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+
+10. To check to see if there are any new reviews.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Reviews | Navigate to the Home page. Scroll down to locate the Review section. Locate the Facebook reviews. | Facebook reviews are visible. | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
+
+11. To be informed if the service provider is continuing to trade.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Reviews | Navigate to the Home page. Scroll down to locate the Review section. Locate the Facebook reviews. | Facebook reviews are visible. | Works as expected |
+| Gallery | Navigate to the Gallery page and scroll down to view all the images. | All images from work completed are visible.| Works as expected |
+| About Us | Navigate to the Home page and scroll down to find the About Us section | Locate the About Us section | Works as expected |
+
+<details><summary>Screenshots</summary>
+
+</details>
 
 ## Bugs
 
@@ -362,7 +486,7 @@ Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 - [garden-hose](assets/images/garden-hose.jpg)Photo by: <a href="https://pixabay.com/users/9436196-9436196/"> User 9436196</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 
 **Contact Form**
-- [van](assets/images/van.jpg) Photo by: <a href="https://pixabay.com/users/publicdomainpictures-14/"> PublicDomainPictures</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
+- [van](assets/images/van.webp) Photo by: <a href="https://pixabay.com/users/publicdomainpictures-14/"> PublicDomainPictures</a> Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 
 **404 Page**
 - [electric-socket-disconnection-404-error](assets/images/electric-socket-disconnection-404-error.jpg) Image by: <a href="https://www.vecteezy.com/members/lucky-creative">Lucky Creative</a> Uploaded to: <a href="https://www.vecteezy.com/">Vecteezy</a>
