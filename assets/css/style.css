@@ -39,9 +39,9 @@ h2 {
     float: left;
     font-size: 250%;
     text-decoration: overline;
-    color: #C7A552;
-    background-color: white;
-    border: #C78979 double 7px;
+    color: #947B3D;
+    background-color: #FFF6F2;
+    border: #7A3F32 double 7px;
 }
 
 #menu {
@@ -305,7 +305,7 @@ li {
 
 .quote-button {
     background-color: #3E6E7A;
-    color: #244047;
+    color: #7FE1FA;
     font-size: 100%;
     padding: 10px 10px 10px 10px;
     border: 1px solid white;

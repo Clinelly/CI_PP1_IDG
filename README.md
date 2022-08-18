@@ -266,15 +266,20 @@ Two warnings were flagged:
 <img src="docs/validation/validator_contact.png">
 </details>
 
-
 ### CSS Validation
+
+The W3C CSS Validation tool was used to check the validity of the CSS code used for the website. No errors or warnings were returned.
+
+<details><summary>Home</summary>
+<img src="docs/validation/validator_css.png">
+</details>
+
 ### Accessibility
 ### Performance
 ### Device testing
  
 Responsive testing was accomplished through the use of Google Chrome Dev Tools and active resizing of the viewport.
- 
-Amiresponsive? :
+
 
 ### Browser compatibility
 ### Testing user stories
