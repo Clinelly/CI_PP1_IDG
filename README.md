@@ -523,14 +523,33 @@ The website was tested on the following broswers:
 
 ## Deployment
 
-The site was deployed to GitHub pages.
- 
-The steps followed to deploy it were:
-In the GitHub repository, navigate to the Settings tab.
-From the source section drop-down menu, select the Master Branch.
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
- 
+The following steps were used to deploy the website using GitHub Pages:
+
+- In the GitHub repository, navigate to the 'Settings' tab.
+- On the left hand menu select 'Pages'.
+- For the source, select 'Branch: Master'.
+- The webpage will refresh automatically. A banner will display: "Your site is published at: https://clinelly.github.io/CI_PP1_IDG/".
+- After a few minutes, the live website will build and deploy.
+
+In order to fork the repository, you must:
+
+- Go to the GitHub repository.
+- Click on 'Fork' button in upper right hand corner.
+- Select 'Create new fork' from the drop-down menu.
+
+You can clone the repository by:
+
+- Going to the GitHub repository.
+- Clicking the 'Code' button, loacted above the file list.
+- Selecting if you prefer to clone using either HTTPS, SSH, or Github CLI.
+- Clicking the copy button to copy the URL to your clipboard.
+- Opening Git Bash.
+- Changing the current working directory to one where you want to clone the directory to.
+- Typing 'git clone' and pasting the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+- Pressing 'Enter' to create your local clone.
+
 The live link can be found here - https://clinelly.github.io/CI_PP1_IDG/
+The repository can be found here - https://github.com/Clinelly/CI_PP1_IDG
 
 
 ## Credits
