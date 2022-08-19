@@ -312,7 +312,7 @@ The W3C CSS Validation tool was used to check the validity of the CSS code used 
 ### Accessibility
 
 The WAVE WebAIM accessibility tool was used to evaluate the website's accessibility.
-One error was returned, which linked to the 'tel:to' external link in the footer. The telephone number linked is a dummy number and will not activate upon interaction.
+One error was returned, which linked to the 'tel:to' external link in the footer. WebAIM claimed the link was empty, but user interation generates a phone call through an app or mobile device, and does not navigate away from the page. The telephone number linked is a fake number.
 
 <details><summary>Home</summary>
 <img src="docs/validation/accessibility_home.png">
@@ -510,6 +510,15 @@ The website was tested on the following broswers:
 
 ## Bugs
 
+| **Bug** | **Fix**|
+|-------------|------------|
+| Contact button would not change colour when hovered over. | Corrected colour and fixed hover attribute. |
+| Escape link on 404 page did not work. | Fixed link to return to the home page. |
+| When viewed on tablet, footer on services page was colliding with the services list. | Add margins to services list to space them out.|
+| Complete lack of responsive design when viewed on mobile phones. | Fixed syntax errors in media query.|
+| Users could submit a blank form. | Add 'required' attributes to form inputs.|
+| Footer links jumped to two lines when viewed on smaller devices. | Added a media query to reduce margins and icon size.|
+| Images in the gallery did not show up. | Fixed image filepaths.|
 
 
 ## Deployment
