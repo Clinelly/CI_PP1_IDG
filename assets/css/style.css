@@ -274,7 +274,7 @@ li {
 /* Contact Form */
 #contact-section {
     clear: both;
-    background: url("/assets/images/van.webp") no-repeat;
+    background: url(../images/van.webp) no-repeat;
     background-size: cover;
     background-position: center;
     height: 900px;
