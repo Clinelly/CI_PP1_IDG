@@ -369,7 +369,8 @@ The website was tested on the following broswers:
 | About Us | Navigate to the Home page and scroll down to find the About Us section | Locate the About Us section | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_1_main.png">
+<img src="docs/user_stories/user_story_1_about_us.png">
 </details>
 
 2. To be easily able navigate throughout the site to find content.
@@ -379,7 +380,7 @@ The website was tested on the following broswers:
 | Navigation Bar | On any page, locate the nav bar in the top-right corner and click on a page link. | Navigation bar is visible on each page, the links are active and will take you to a new page. | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_2_nav_bar.png">
 </details>
 
 3. To look for testimonials from other users and find out what they think of the service provider and see if they are trusted.
@@ -389,7 +390,8 @@ The website was tested on the following broswers:
 | Reviews | Navigate to the Home page. Scroll down to locate the Review section. Locate the Facebook reviews. | Facebook reviews are visible. | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_3_main_scroll.png">
+<img src="docs/user_stories/user_story_3_reviews.png">
 </details>
 
 4. To locate their social media links to see the organisations' followings on social media to determine how trusted and known they are.
@@ -399,7 +401,8 @@ The website was tested on the following broswers:
 | Media Links | On any page, scroll down to locate the Footer section. Click on the Facebook or Tick logo. | Media Links take you to external Social Media sites. | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_4_main_scroll.png">
+<img src="docs/user_stories/user_story_4_media.png">
 </details>
 
 5. To quickly and easily contact the service provider and utilise their services.
@@ -412,7 +415,10 @@ The website was tested on the following broswers:
 **NB:**The telephone number used is a non-functioning phone number, so it will not generate a phone call. The website also has no functioning back-end, so the Contact Form is non-functional at this moment in time.
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_5_main_scroll.png">
+<img src="docs/user_stories/user_story_5_media.png">
+<img src="docs/user_stories/user_story_5_main_contact.png">
+<img src="docs/user_stories/user_story_5_contact_page.png">
 </details>
 
 
@@ -425,6 +431,9 @@ The website was tested on the following broswers:
 | Electrical & Plumbing Services Pt.2 |  Navigate to the Services page and scroll down to the collapsible sections. | Click on an item to view a detailed description. | Works as expected |
 
 <details><summary>Screenshots</summary>
+<img src="docs/user_stories/user_story_6_main_services.png">
+<img src="docs/user_stories/user_story_6_services.png">
+<img src="docs/user_stories/user_story_6_service_detail.png">
 
 </details>
 
@@ -436,7 +445,9 @@ The website was tested on the following broswers:
 | Contact Details | Navigate to the Contact page and scroll down to find the Contact Details. | Direct Contact Details and a map to the business location are visible. | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_7_main_contact.png">
+<img src="docs/user_stories/user_story_7_contact_scroll.png">
+<img src="docs/user_stories/user_story_7_contact_details.png">
 </details>
 
 8. To find ideas and inspirations.
@@ -447,7 +458,12 @@ The website was tested on the following broswers:
 | Electrical & Plumbing Services Pt.2 |  Navigate to the Services page and scroll down to the collapsible sections. | Click on an item to view a detailed description. | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_8_main_gallery.png">
+<img src="docs/user_stories/user_story_8_gallery_1.png">
+<img src="docs/user_stories/user_story_8_gallery_2.png">
+<img src="docs/user_stories/user_story_6_main_services.png">
+<img src="docs/user_stories/user_story_6_services.png">
+<img src="docs/user_stories/user_story_6_service_detail.png">
 </details>
 
 9. To check to see if the gallery has been updated with new work.
@@ -457,7 +473,9 @@ The website was tested on the following broswers:
 | Gallery | Navigate to the Gallery page and scroll down to view all the images. | All images from work completed are visible.| Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_8_main_gallery.png">
+<img src="docs/user_stories/user_story_8_gallery_1.png">
+<img src="docs/user_stories/user_story_8_gallery_2.png">
 </details>
 
 
@@ -468,7 +486,8 @@ The website was tested on the following broswers:
 | Reviews | Navigate to the Home page. Scroll down to locate the Review section. Locate the Facebook reviews. | Facebook reviews are visible. | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_3_main_scroll.png">
+<img src="docs/user_stories/user_story_3_reviews.png">
 </details>
 
 11. To be informed if the service provider is continuing to trade.
@@ -477,13 +496,21 @@ The website was tested on the following broswers:
 |-------------|------------|---------------------|-------------------|
 | Reviews | Navigate to the Home page. Scroll down to locate the Review section. Locate the Facebook reviews. | Facebook reviews are visible. | Works as expected |
 | Gallery | Navigate to the Gallery page and scroll down to view all the images. | All images from work completed are visible.| Works as expected |
-| About Us | Navigate to the Home page and scroll down to find the About Us section | Locate the About Us section | Works as expected |
+| About Us | Navigate to the Home page and scroll down to find the About Us section | About Us section is up to date | Works as expected |
 
 <details><summary>Screenshots</summary>
-
+<img src="docs/user_stories/user_story_3_main_scroll.png">
+<img src="docs/user_stories/user_story_3_reviews.png">
+<img src="docs/user_stories/user_story_8_main_gallery.png">
+<img src="docs/user_stories/user_story_8_gallery_1.png">
+<img src="docs/user_stories/user_story_8_gallery_2.png">
+<img src="docs/user_stories/user_story_1_main.png">
+<img src="docs/user_stories/user_story_1_about_us.png">
 </details>
 
 ## Bugs
+
+
 
 ## Deployment
 
@@ -545,6 +572,8 @@ Uploaded to:<a href="https://pixabay.com/">Pixabay</a>
 **404 Page**
 - [electric-socket-disconnection-404-error](assets/images/electric-socket-disconnection-404-error.jpg) Image by: <a href="https://www.vecteezy.com/members/lucky-creative">Lucky Creative</a> Uploaded to: <a href="https://www.vecteezy.com/">Vecteezy</a>
 
-
-
 ## Acknowledgements
+- My mentor, Mo Shami, for pushing me and giving me great advice.
+- My beautiful wife, Megan, for her continued love and support.
+- Jim, Sawyer, and the other fantasic members of Code Institute's community team.
+- The great people of class June '22 for their ideas and humour.
