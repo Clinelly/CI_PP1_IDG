@@ -141,7 +141,7 @@ The website has four pages:
 <img src="docs/wireframes/home_page.png">
 </details>
 <details><summary>Services</summary>
-<img src="docs /wireframes/services.png">
+<img src="docs/wireframes/services.png">
 </details>
 <details><summary>Gallery</summary>
 <img src="docs/wireframes/gallery.png">
